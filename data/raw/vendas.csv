@@ -1,0 +1,1001 @@
+id_venda,id_cliente,nome_cliente,cidade,estado,id_produto,produto,categoria,data,quantidade,preco_unitario
+1,110,Juliana Pires,Maringá,PR,203,Herbicida Glifosato,Defensivos,2024-10-19,39,780.0
+2,118,Aline Moreira,Cascavel,PR,203,Herbicida Glifosato,Defensivos,2024-10-27,5,780.0
+3,102,Maria Souza,Campo Grande,MS,204,Fungicida Triazol,Defensivos,2024-02-27,13,950.0
+4,114,Camila Barros,Ribeirão Preto,SP,205,Calcário Agrícola,Corretivos,2024-07-11,22,45.0
+5,113,Renato Farias,Presidente Prudente,SP,208,Adubo MAP,Fertilizantes,2024-09-23,33,210.0
+6,117,Gustavo Azevedo,Curitiba,PR,208,Adubo MAP,Fertilizantes,2024-01-04,6,210.0
+7,105,Pedro Lima,Rio Verde,GO,207,Inseticida Sistêmico,Defensivos,2024-01-17,38,680.0
+8,123,Rodrigo Mello,Presidente Prudente,SP,202,Sementes de Milho,Sementes,2024-10-24,39,350.0
+9,119,Diego Fonseca,Cuiabá,MT,208,Adubo MAP,Fertilizantes,2024-04-22,1,210.0
+10,104,Ana Martins,Campo Grande,MS,201,Adubo NPK 20-05-20,Fertilizantes,2024-09-24,10,120.5
+11,119,Diego Fonseca,Rio Verde,GO,207,Inseticida Sistêmico,Defensivos,2024-07-09,40,680.0
+12,103,Carlos Pereira,Curitiba,PR,203,Herbicida Glifosato,Defensivos,2024-07-24,8,780.0
+13,124,Vanessa Pacheco,Maringá,PR,208,Adubo MAP,Fertilizantes,2024-03-23,19,210.0
+14,116,Tatiane Lopes,Maringá,PR,203,Herbicida Glifosato,Defensivos,2024-06-28,4,780.0
+15,109,Marcos Vinícius,Jataí,GO,204,Fungicida Triazol,Defensivos,2024-06-29,20,950.0
+16,124,Vanessa Pacheco,Rio Verde,GO,208,Adubo MAP,Fertilizantes,2024-04-29,19,210.0
+17,119,Diego Fonseca,Toledo,PR,208,Adubo MAP,Fertilizantes,2024-04-21,33,210.0
+18,122,Simone Araújo,Goioerê,PR,205,Calcário Agrícola,Corretivos,2024-07-20,15,45.0
+19,121,Felipe Guedes,Goioerê,PR,205,Calcário Agrícola,Corretivos,2024-07-17,14,45.0
+20,116,Tatiane Lopes,Toledo,PR,202,Sementes de Milho,Sementes,2024-10-16,26,350.0
+21,118,Aline Moreira,Dourados,MS,208,Adubo MAP,Fertilizantes,2024-05-03,29,210.0
+22,101,João Silva,Presidente Prudente,SP,208,Adubo MAP,Fertilizantes,2024-10-31,40,210.0
+23,104,Ana Martins,Cascavel,PR,203,Herbicida Glifosato,Defensivos,2024-05-28,3,780.0
+24,113,Renato Farias,Patos de Minas,MG,207,Inseticida Sistêmico,Defensivos,2024-05-05,13,680.0
+25,124,Vanessa Pacheco,Campo Grande,MS,207,Inseticida Sistêmico,Defensivos,2024-06-12,11,680.0
+26,108,Fernanda Alves,Ribeirão Preto,SP,205,Calcário Agrícola,Corretivos,2024-07-14,15,45.0
+27,123,Rodrigo Mello,Goioerê,PR,206,Sementes de Soja,Sementes,2024-09-13,40,420.0
+28,102,Maria Souza,Cascavel,PR,202,Sementes de Milho,Sementes,2024-04-05,39,350.0
+29,116,Tatiane Lopes,Rio Verde,GO,205,Calcário Agrícola,Corretivos,2024-06-18,24,45.0
+30,115,Eduardo Rangel,Umuarama,PR,207,Inseticida Sistêmico,Defensivos,2024-12-31,27,680.0
+31,122,Simone Araújo,Ourinhos,SP,201,Adubo NPK 20-05-20,Fertilizantes,2024-03-12,28,120.5
+32,121,Felipe Guedes,Presidente Prudente,SP,203,Herbicida Glifosato,Defensivos,2024-05-30,28,780.0
+33,118,Aline Moreira,Assis Chateaubriand,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-04-29,5,120.5
+34,116,Tatiane Lopes,Londrina,PR,205,Calcário Agrícola,Corretivos,2024-06-01,5,45.0
+35,115,Eduardo Rangel,Uberlândia,MG,207,Inseticida Sistêmico,Defensivos,2024-01-15,26,680.0
+36,122,Simone Araújo,Dourados,MS,208,Adubo MAP,Fertilizantes,2024-07-04,23,210.0
+37,106,Rafael Costa,Goioerê,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-07-13,25,120.5
+38,115,Eduardo Rangel,Campo Grande,MS,203,Herbicida Glifosato,Defensivos,2024-11-11,9,780.0
+39,116,Tatiane Lopes,Presidente Prudente,SP,201,Adubo NPK 20-05-20,Fertilizantes,2024-12-09,10,120.5
+40,115,Eduardo Rangel,Piracicaba,SP,208,Adubo MAP,Fertilizantes,2024-07-19,17,210.0
+41,105,Pedro Lima,Ourinhos,SP,203,Herbicida Glifosato,Defensivos,2024-02-14,29,780.0
+42,104,Ana Martins,Umuarama,PR,203,Herbicida Glifosato,Defensivos,2024-11-13,11,780.0
+43,108,Fernanda Alves,Curitiba,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-04-29,4,120.5
+44,107,Lucas Rocha,Curitiba,PR,205,Calcário Agrícola,Corretivos,2024-01-05,12,45.0
+45,116,Tatiane Lopes,Ourinhos,SP,207,Inseticida Sistêmico,Defensivos,2024-09-20,26,680.0
+46,116,Tatiane Lopes,Dourados,MS,208,Adubo MAP,Fertilizantes,2024-04-22,36,210.0
+47,115,Eduardo Rangel,Piracicaba,SP,205,Calcário Agrícola,Corretivos,2024-10-04,19,45.0
+48,118,Aline Moreira,Toledo,PR,204,Fungicida Triazol,Defensivos,2024-09-02,14,950.0
+49,121,Felipe Guedes,Goioerê,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-08-15,36,120.5
+50,113,Renato Farias,Cascavel,PR,206,Sementes de Soja,Sementes,2024-11-11,10,420.0
+51,103,Carlos Pereira,Cuiabá,MT,201,Adubo NPK 20-05-20,Fertilizantes,2024-05-16,40,120.5
+52,113,Renato Farias,Maringá,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-07-11,35,120.5
+53,108,Fernanda Alves,Rondonópolis,MT,207,Inseticida Sistêmico,Defensivos,2024-07-03,16,680.0
+54,125,André Ribeiro,Londrina,PR,203,Herbicida Glifosato,Defensivos,2024-08-08,34,780.0
+55,110,Juliana Pires,Assis Chateaubriand,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-04-26,20,120.5
+56,110,Juliana Pires,Londrina,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-12-13,22,120.5
+57,114,Camila Barros,Toledo,PR,202,Sementes de Milho,Sementes,2024-11-15,28,350.0
+58,104,Ana Martins,Goioerê,PR,206,Sementes de Soja,Sementes,2024-06-30,33,420.0
+59,103,Carlos Pereira,Uberlândia,MG,205,Calcário Agrícola,Corretivos,2024-12-24,13,45.0
+60,108,Fernanda Alves,Campo Grande,MS,204,Fungicida Triazol,Defensivos,2024-10-24,11,950.0
+61,102,Maria Souza,Assis Chateaubriand,PR,203,Herbicida Glifosato,Defensivos,2024-05-22,35,780.0
+62,104,Ana Martins,Assis Chateaubriand,PR,203,Herbicida Glifosato,Defensivos,2024-01-28,30,780.0
+63,123,Rodrigo Mello,Presidente Prudente,SP,206,Sementes de Soja,Sementes,2024-05-15,20,420.0
+64,111,Bruno Teixeira,Rondonópolis,MT,205,Calcário Agrícola,Corretivos,2024-06-15,39,45.0
+65,106,Rafael Costa,Campo Grande,MS,204,Fungicida Triazol,Defensivos,2024-08-24,32,950.0
+66,124,Vanessa Pacheco,Maringá,PR,203,Herbicida Glifosato,Defensivos,2024-08-06,28,780.0
+67,117,Gustavo Azevedo,Maringá,PR,206,Sementes de Soja,Sementes,2024-03-19,11,420.0
+68,113,Renato Farias,Piracicaba,SP,203,Herbicida Glifosato,Defensivos,2024-09-12,28,780.0
+69,102,Maria Souza,Rondonópolis,MT,201,Adubo NPK 20-05-20,Fertilizantes,2024-12-03,26,120.5
+70,112,Patrícia Nogueira,Uberlândia,MG,207,Inseticida Sistêmico,Defensivos,2024-08-01,15,680.0
+71,103,Carlos Pereira,Toledo,PR,204,Fungicida Triazol,Defensivos,2024-09-25,39,950.0
+72,114,Camila Barros,Uberlândia,MG,201,Adubo NPK 20-05-20,Fertilizantes,2024-11-06,30,120.5
+73,105,Pedro Lima,Cuiabá,MT,207,Inseticida Sistêmico,Defensivos,2024-11-08,36,680.0
+74,108,Fernanda Alves,Assis Chateaubriand,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-01-13,24,120.5
+75,112,Patrícia Nogueira,Curitiba,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-12-10,34,120.5
+76,122,Simone Araújo,Goioerê,PR,206,Sementes de Soja,Sementes,2024-04-03,15,420.0
+77,102,Maria Souza,Patos de Minas,MG,203,Herbicida Glifosato,Defensivos,2024-03-04,13,780.0
+78,106,Rafael Costa,Cascavel,PR,204,Fungicida Triazol,Defensivos,2024-08-22,7,950.0
+79,123,Rodrigo Mello,Ribeirão Preto,SP,203,Herbicida Glifosato,Defensivos,2024-04-27,38,780.0
+80,122,Simone Araújo,Assis Chateaubriand,PR,208,Adubo MAP,Fertilizantes,2024-04-29,29,210.0
+81,116,Tatiane Lopes,Ourinhos,SP,204,Fungicida Triazol,Defensivos,2024-04-01,25,950.0
+82,112,Patrícia Nogueira,Goioerê,PR,205,Calcário Agrícola,Corretivos,2024-11-29,8,45.0
+83,108,Fernanda Alves,Presidente Prudente,SP,202,Sementes de Milho,Sementes,2024-03-27,34,350.0
+84,116,Tatiane Lopes,Ribeirão Preto,SP,205,Calcário Agrícola,Corretivos,2024-08-07,9,45.0
+85,119,Diego Fonseca,Curitiba,PR,208,Adubo MAP,Fertilizantes,2024-10-02,32,210.0
+86,125,André Ribeiro,Dourados,MS,208,Adubo MAP,Fertilizantes,2024-01-02,36,210.0
+87,112,Patrícia Nogueira,Curitiba,PR,208,Adubo MAP,Fertilizantes,2024-12-16,16,210.0
+88,111,Bruno Teixeira,Rondonópolis,MT,203,Herbicida Glifosato,Defensivos,2024-06-05,21,780.0
+89,111,Bruno Teixeira,Curitiba,PR,206,Sementes de Soja,Sementes,2024-08-18,35,420.0
+90,113,Renato Farias,Presidente Prudente,SP,203,Herbicida Glifosato,Defensivos,2024-12-16,19,780.0
+91,110,Juliana Pires,Curitiba,PR,208,Adubo MAP,Fertilizantes,2024-06-20,40,210.0
+92,109,Marcos Vinícius,Goioerê,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-04-25,36,120.5
+93,112,Patrícia Nogueira,Londrina,PR,202,Sementes de Milho,Sementes,2024-12-17,28,350.0
+94,109,Marcos Vinícius,Cuiabá,MT,204,Fungicida Triazol,Defensivos,2024-03-24,32,950.0
+95,116,Tatiane Lopes,Toledo,PR,204,Fungicida Triazol,Defensivos,2024-09-15,13,950.0
+96,116,Tatiane Lopes,Rondonópolis,MT,202,Sementes de Milho,Sementes,2024-10-05,14,350.0
+97,104,Ana Martins,Toledo,PR,208,Adubo MAP,Fertilizantes,2024-12-21,25,210.0
+98,118,Aline Moreira,Campo Grande,MS,205,Calcário Agrícola,Corretivos,2024-10-14,11,45.0
+99,108,Fernanda Alves,Dourados,MS,203,Herbicida Glifosato,Defensivos,2024-05-25,40,780.0
+100,125,André Ribeiro,Presidente Prudente,SP,203,Herbicida Glifosato,Defensivos,2024-11-30,9,780.0
+101,121,Felipe Guedes,Piracicaba,SP,208,Adubo MAP,Fertilizantes,2024-10-17,30,210.0
+102,118,Aline Moreira,Toledo,PR,202,Sementes de Milho,Sementes,2024-10-15,14,350.0
+103,118,Aline Moreira,Cuiabá,MT,206,Sementes de Soja,Sementes,2024-07-04,18,420.0
+104,115,Eduardo Rangel,Londrina,PR,203,Herbicida Glifosato,Defensivos,2024-08-08,31,780.0
+105,103,Carlos Pereira,Maringá,PR,204,Fungicida Triazol,Defensivos,2024-06-16,38,950.0
+106,111,Bruno Teixeira,Goioerê,PR,206,Sementes de Soja,Sementes,2024-03-05,1,420.0
+107,102,Maria Souza,Jataí,GO,201,Adubo NPK 20-05-20,Fertilizantes,2024-08-18,7,120.5
+108,121,Felipe Guedes,Maringá,PR,204,Fungicida Triazol,Defensivos,2024-02-21,37,950.0
+109,111,Bruno Teixeira,Curitiba,PR,204,Fungicida Triazol,Defensivos,2024-03-21,37,950.0
+110,125,André Ribeiro,Assis Chateaubriand,PR,202,Sementes de Milho,Sementes,2024-04-21,13,350.0
+111,115,Eduardo Rangel,Presidente Prudente,SP,201,Adubo NPK 20-05-20,Fertilizantes,2024-09-03,30,120.5
+112,114,Camila Barros,Jataí,GO,206,Sementes de Soja,Sementes,2024-01-17,4,420.0
+113,110,Juliana Pires,Toledo,PR,208,Adubo MAP,Fertilizantes,2024-07-26,8,210.0
+114,114,Camila Barros,Cuiabá,MT,205,Calcário Agrícola,Corretivos,2024-08-02,30,45.0
+115,112,Patrícia Nogueira,Ribeirão Preto,SP,203,Herbicida Glifosato,Defensivos,2024-10-19,10,780.0
+116,118,Aline Moreira,Cascavel,PR,208,Adubo MAP,Fertilizantes,2024-12-23,19,210.0
+117,120,Larissa Cunha,Cuiabá,MT,204,Fungicida Triazol,Defensivos,2024-02-22,2,950.0
+118,118,Aline Moreira,Londrina,PR,204,Fungicida Triazol,Defensivos,2024-12-04,38,950.0
+119,115,Eduardo Rangel,Londrina,PR,204,Fungicida Triazol,Defensivos,2024-04-14,31,950.0
+120,116,Tatiane Lopes,Curitiba,PR,206,Sementes de Soja,Sementes,2024-08-16,28,420.0
+121,117,Gustavo Azevedo,Ourinhos,SP,201,Adubo NPK 20-05-20,Fertilizantes,2024-05-31,23,120.5
+122,116,Tatiane Lopes,Ourinhos,SP,208,Adubo MAP,Fertilizantes,2024-08-19,39,210.0
+123,116,Tatiane Lopes,Piracicaba,SP,208,Adubo MAP,Fertilizantes,2024-11-24,29,210.0
+124,116,Tatiane Lopes,Rio Verde,GO,206,Sementes de Soja,Sementes,2024-07-02,35,420.0
+125,105,Pedro Lima,Uberlândia,MG,206,Sementes de Soja,Sementes,2024-06-02,26,420.0
+126,121,Felipe Guedes,Presidente Prudente,SP,204,Fungicida Triazol,Defensivos,2024-09-03,27,950.0
+127,110,Juliana Pires,Rondonópolis,MT,206,Sementes de Soja,Sementes,2024-12-27,29,420.0
+128,114,Camila Barros,Piracicaba,SP,206,Sementes de Soja,Sementes,2024-12-13,15,420.0
+129,103,Carlos Pereira,Ourinhos,SP,204,Fungicida Triazol,Defensivos,2024-06-10,7,950.0
+130,119,Diego Fonseca,Rondonópolis,MT,208,Adubo MAP,Fertilizantes,2024-12-25,23,210.0
+131,110,Juliana Pires,Uberlândia,MG,207,Inseticida Sistêmico,Defensivos,2024-11-26,7,680.0
+132,103,Carlos Pereira,Dourados,MS,202,Sementes de Milho,Sementes,2024-08-16,8,350.0
+133,115,Eduardo Rangel,Rondonópolis,MT,207,Inseticida Sistêmico,Defensivos,2024-06-13,1,680.0
+134,120,Larissa Cunha,Uberlândia,MG,206,Sementes de Soja,Sementes,2024-08-28,34,420.0
+135,116,Tatiane Lopes,Ourinhos,SP,203,Herbicida Glifosato,Defensivos,2024-02-18,22,780.0
+136,106,Rafael Costa,Toledo,PR,203,Herbicida Glifosato,Defensivos,2024-06-12,24,780.0
+137,110,Juliana Pires,Curitiba,PR,203,Herbicida Glifosato,Defensivos,2024-05-24,32,780.0
+138,113,Renato Farias,Ourinhos,SP,202,Sementes de Milho,Sementes,2024-07-14,26,350.0
+139,109,Marcos Vinícius,Campo Grande,MS,201,Adubo NPK 20-05-20,Fertilizantes,2024-03-15,37,120.5
+140,105,Pedro Lima,Curitiba,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-11-16,16,120.5
+141,113,Renato Farias,Rio Verde,GO,203,Herbicida Glifosato,Defensivos,2024-01-11,39,780.0
+142,107,Lucas Rocha,Rio Verde,GO,203,Herbicida Glifosato,Defensivos,2024-04-23,33,780.0
+143,125,André Ribeiro,Ourinhos,SP,205,Calcário Agrícola,Corretivos,2024-04-24,16,45.0
+144,106,Rafael Costa,Uberlândia,MG,203,Herbicida Glifosato,Defensivos,2024-08-26,8,780.0
+145,116,Tatiane Lopes,Dourados,MS,206,Sementes de Soja,Sementes,2024-07-09,31,420.0
+146,122,Simone Araújo,Uberlândia,MG,205,Calcário Agrícola,Corretivos,2024-11-11,38,45.0
+147,113,Renato Farias,Ourinhos,SP,205,Calcário Agrícola,Corretivos,2024-05-16,35,45.0
+148,108,Fernanda Alves,Cuiabá,MT,205,Calcário Agrícola,Corretivos,2024-05-15,26,45.0
+149,115,Eduardo Rangel,Dourados,MS,204,Fungicida Triazol,Defensivos,2024-05-31,27,950.0
+150,116,Tatiane Lopes,Assis Chateaubriand,PR,207,Inseticida Sistêmico,Defensivos,2024-08-27,35,680.0
+151,112,Patrícia Nogueira,Patos de Minas,MG,204,Fungicida Triazol,Defensivos,2024-08-05,11,950.0
+152,101,João Silva,Campo Grande,MS,204,Fungicida Triazol,Defensivos,2024-02-18,8,950.0
+153,105,Pedro Lima,Maringá,PR,208,Adubo MAP,Fertilizantes,2024-12-26,23,210.0
+154,120,Larissa Cunha,Campo Grande,MS,207,Inseticida Sistêmico,Defensivos,2024-07-11,39,680.0
+155,108,Fernanda Alves,Rio Verde,GO,204,Fungicida Triazol,Defensivos,2024-12-11,37,950.0
+156,106,Rafael Costa,Ourinhos,SP,205,Calcário Agrícola,Corretivos,2024-01-14,21,45.0
+157,105,Pedro Lima,Ribeirão Preto,SP,206,Sementes de Soja,Sementes,2024-12-26,15,420.0
+158,117,Gustavo Azevedo,Patos de Minas,MG,208,Adubo MAP,Fertilizantes,2024-05-11,17,210.0
+159,106,Rafael Costa,Jataí,GO,206,Sementes de Soja,Sementes,2024-08-12,40,420.0
+160,116,Tatiane Lopes,Piracicaba,SP,202,Sementes de Milho,Sementes,2024-07-26,7,350.0
+161,116,Tatiane Lopes,Jataí,GO,206,Sementes de Soja,Sementes,2024-11-29,15,420.0
+162,114,Camila Barros,Rio Verde,GO,201,Adubo NPK 20-05-20,Fertilizantes,2024-08-23,11,120.5
+163,115,Eduardo Rangel,Goioerê,PR,203,Herbicida Glifosato,Defensivos,2024-03-28,2,780.0
+164,116,Tatiane Lopes,Toledo,PR,206,Sementes de Soja,Sementes,2024-12-05,28,420.0
+165,114,Camila Barros,Jataí,GO,205,Calcário Agrícola,Corretivos,2024-08-18,36,45.0
+166,125,André Ribeiro,Piracicaba,SP,201,Adubo NPK 20-05-20,Fertilizantes,2024-06-17,16,120.5
+167,108,Fernanda Alves,Patos de Minas,MG,204,Fungicida Triazol,Defensivos,2024-06-17,21,950.0
+168,109,Marcos Vinícius,Dourados,MS,202,Sementes de Milho,Sementes,2024-11-09,2,350.0
+169,101,João Silva,Ourinhos,SP,206,Sementes de Soja,Sementes,2024-10-07,35,420.0
+170,118,Aline Moreira,Campo Grande,MS,202,Sementes de Milho,Sementes,2024-02-12,10,350.0
+171,117,Gustavo Azevedo,Rondonópolis,MT,204,Fungicida Triazol,Defensivos,2024-11-02,5,950.0
+172,107,Lucas Rocha,Presidente Prudente,SP,205,Calcário Agrícola,Corretivos,2024-02-02,12,45.0
+173,123,Rodrigo Mello,Cuiabá,MT,206,Sementes de Soja,Sementes,2024-07-17,28,420.0
+174,111,Bruno Teixeira,Ourinhos,SP,206,Sementes de Soja,Sementes,2024-11-07,40,420.0
+175,109,Marcos Vinícius,Maringá,PR,206,Sementes de Soja,Sementes,2024-08-09,7,420.0
+176,121,Felipe Guedes,Londrina,PR,203,Herbicida Glifosato,Defensivos,2024-01-22,39,780.0
+177,104,Ana Martins,Cascavel,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-01-12,4,120.5
+178,121,Felipe Guedes,Londrina,PR,204,Fungicida Triazol,Defensivos,2024-01-14,19,950.0
+179,115,Eduardo Rangel,Presidente Prudente,SP,204,Fungicida Triazol,Defensivos,2024-03-12,27,950.0
+180,124,Vanessa Pacheco,Rondonópolis,MT,203,Herbicida Glifosato,Defensivos,2024-02-13,33,780.0
+181,109,Marcos Vinícius,Maringá,PR,203,Herbicida Glifosato,Defensivos,2024-09-13,24,780.0
+182,118,Aline Moreira,Umuarama,PR,206,Sementes de Soja,Sementes,2024-04-23,18,420.0
+183,110,Juliana Pires,Dourados,MS,202,Sementes de Milho,Sementes,2024-06-30,22,350.0
+184,115,Eduardo Rangel,Piracicaba,SP,206,Sementes de Soja,Sementes,2024-04-23,24,420.0
+185,104,Ana Martins,Jataí,GO,204,Fungicida Triazol,Defensivos,2024-07-13,34,950.0
+186,112,Patrícia Nogueira,Rondonópolis,MT,208,Adubo MAP,Fertilizantes,2024-08-10,14,210.0
+187,120,Larissa Cunha,Patos de Minas,MG,201,Adubo NPK 20-05-20,Fertilizantes,2024-06-23,36,120.5
+188,116,Tatiane Lopes,Londrina,PR,203,Herbicida Glifosato,Defensivos,2024-01-03,10,780.0
+189,101,João Silva,Cascavel,PR,207,Inseticida Sistêmico,Defensivos,2024-12-31,18,680.0
+190,122,Simone Araújo,Cuiabá,MT,206,Sementes de Soja,Sementes,2024-09-02,4,420.0
+191,120,Larissa Cunha,Cuiabá,MT,207,Inseticida Sistêmico,Defensivos,2024-04-21,25,680.0
+192,112,Patrícia Nogueira,Campo Grande,MS,204,Fungicida Triazol,Defensivos,2024-12-17,38,950.0
+193,111,Bruno Teixeira,Presidente Prudente,SP,203,Herbicida Glifosato,Defensivos,2024-05-21,4,780.0
+194,115,Eduardo Rangel,Maringá,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-11-28,38,120.5
+195,119,Diego Fonseca,Ribeirão Preto,SP,205,Calcário Agrícola,Corretivos,2024-08-20,10,45.0
+196,102,Maria Souza,Presidente Prudente,SP,203,Herbicida Glifosato,Defensivos,2024-12-01,1,780.0
+197,119,Diego Fonseca,Cuiabá,MT,207,Inseticida Sistêmico,Defensivos,2024-09-04,9,680.0
+198,106,Rafael Costa,Dourados,MS,203,Herbicida Glifosato,Defensivos,2024-08-06,13,780.0
+199,115,Eduardo Rangel,Umuarama,PR,208,Adubo MAP,Fertilizantes,2024-05-22,39,210.0
+200,108,Fernanda Alves,Dourados,MS,205,Calcário Agrícola,Corretivos,2024-02-01,15,45.0
+201,107,Lucas Rocha,Cuiabá,MT,207,Inseticida Sistêmico,Defensivos,2024-09-18,13,680.0
+202,120,Larissa Cunha,Maringá,PR,202,Sementes de Milho,Sementes,2024-10-11,17,350.0
+203,114,Camila Barros,Uberlândia,MG,201,Adubo NPK 20-05-20,Fertilizantes,2024-11-09,34,120.5
+204,107,Lucas Rocha,Patos de Minas,MG,207,Inseticida Sistêmico,Defensivos,2024-01-17,34,680.0
+205,124,Vanessa Pacheco,Toledo,PR,204,Fungicida Triazol,Defensivos,2024-08-02,29,950.0
+206,106,Rafael Costa,Maringá,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-11-04,26,120.5
+207,117,Gustavo Azevedo,Rondonópolis,MT,207,Inseticida Sistêmico,Defensivos,2024-02-03,39,680.0
+208,117,Gustavo Azevedo,Dourados,MS,204,Fungicida Triazol,Defensivos,2024-12-25,35,950.0
+209,108,Fernanda Alves,Assis Chateaubriand,PR,202,Sementes de Milho,Sementes,2024-01-08,23,350.0
+210,114,Camila Barros,Campo Grande,MS,203,Herbicida Glifosato,Defensivos,2024-08-28,35,780.0
+211,115,Eduardo Rangel,Uberlândia,MG,205,Calcário Agrícola,Corretivos,2024-02-29,34,45.0
+212,111,Bruno Teixeira,Jataí,GO,203,Herbicida Glifosato,Defensivos,2024-10-30,19,780.0
+213,104,Ana Martins,Cascavel,PR,204,Fungicida Triazol,Defensivos,2024-06-21,11,950.0
+214,124,Vanessa Pacheco,Patos de Minas,MG,205,Calcário Agrícola,Corretivos,2024-08-18,33,45.0
+215,119,Diego Fonseca,Dourados,MS,207,Inseticida Sistêmico,Defensivos,2024-09-23,11,680.0
+216,101,João Silva,Cuiabá,MT,207,Inseticida Sistêmico,Defensivos,2024-03-12,27,680.0
+217,123,Rodrigo Mello,Cuiabá,MT,201,Adubo NPK 20-05-20,Fertilizantes,2024-11-19,12,120.5
+218,101,João Silva,Patos de Minas,MG,203,Herbicida Glifosato,Defensivos,2024-08-30,29,780.0
+219,114,Camila Barros,Ourinhos,SP,203,Herbicida Glifosato,Defensivos,2024-12-01,30,780.0
+220,121,Felipe Guedes,Rondonópolis,MT,206,Sementes de Soja,Sementes,2024-07-03,32,420.0
+221,107,Lucas Rocha,Rio Verde,GO,201,Adubo NPK 20-05-20,Fertilizantes,2024-06-20,23,120.5
+222,107,Lucas Rocha,Maringá,PR,207,Inseticida Sistêmico,Defensivos,2024-01-12,5,680.0
+223,115,Eduardo Rangel,Rondonópolis,MT,206,Sementes de Soja,Sementes,2024-11-27,36,420.0
+224,101,João Silva,Goioerê,PR,203,Herbicida Glifosato,Defensivos,2024-06-17,28,780.0
+225,107,Lucas Rocha,Cascavel,PR,207,Inseticida Sistêmico,Defensivos,2024-09-08,13,680.0
+226,108,Fernanda Alves,Piracicaba,SP,208,Adubo MAP,Fertilizantes,2024-12-10,19,210.0
+227,101,João Silva,Ourinhos,SP,206,Sementes de Soja,Sementes,2024-11-03,30,420.0
+228,117,Gustavo Azevedo,Londrina,PR,207,Inseticida Sistêmico,Defensivos,2024-11-05,16,680.0
+229,107,Lucas Rocha,Londrina,PR,205,Calcário Agrícola,Corretivos,2024-04-05,11,45.0
+230,121,Felipe Guedes,Rio Verde,GO,206,Sementes de Soja,Sementes,2024-04-26,17,420.0
+231,122,Simone Araújo,Patos de Minas,MG,205,Calcário Agrícola,Corretivos,2024-06-20,23,45.0
+232,116,Tatiane Lopes,Presidente Prudente,SP,202,Sementes de Milho,Sementes,2024-05-01,34,350.0
+233,112,Patrícia Nogueira,Ourinhos,SP,201,Adubo NPK 20-05-20,Fertilizantes,2024-05-28,13,120.5
+234,111,Bruno Teixeira,Toledo,PR,202,Sementes de Milho,Sementes,2024-07-01,31,350.0
+235,112,Patrícia Nogueira,Maringá,PR,203,Herbicida Glifosato,Defensivos,2024-11-05,10,780.0
+236,113,Renato Farias,Toledo,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-12-28,26,120.5
+237,124,Vanessa Pacheco,Londrina,PR,205,Calcário Agrícola,Corretivos,2024-11-28,17,45.0
+238,114,Camila Barros,Cascavel,PR,205,Calcário Agrícola,Corretivos,2024-03-26,12,45.0
+239,114,Camila Barros,Cascavel,PR,202,Sementes de Milho,Sementes,2024-07-31,37,350.0
+240,102,Maria Souza,Assis Chateaubriand,PR,207,Inseticida Sistêmico,Defensivos,2024-10-18,6,680.0
+241,108,Fernanda Alves,Jataí,GO,203,Herbicida Glifosato,Defensivos,2024-01-08,27,780.0
+242,106,Rafael Costa,Ourinhos,SP,203,Herbicida Glifosato,Defensivos,2024-10-01,33,780.0
+243,105,Pedro Lima,Piracicaba,SP,207,Inseticida Sistêmico,Defensivos,2024-06-19,35,680.0
+244,120,Larissa Cunha,Toledo,PR,206,Sementes de Soja,Sementes,2024-10-18,2,420.0
+245,103,Carlos Pereira,Maringá,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-02-03,9,120.5
+246,120,Larissa Cunha,Goioerê,PR,206,Sementes de Soja,Sementes,2024-12-18,38,420.0
+247,105,Pedro Lima,Presidente Prudente,SP,206,Sementes de Soja,Sementes,2024-02-21,25,420.0
+248,109,Marcos Vinícius,Cuiabá,MT,203,Herbicida Glifosato,Defensivos,2024-01-03,10,780.0
+249,117,Gustavo Azevedo,Ribeirão Preto,SP,203,Herbicida Glifosato,Defensivos,2024-11-13,23,780.0
+250,112,Patrícia Nogueira,Assis Chateaubriand,PR,204,Fungicida Triazol,Defensivos,2024-11-27,38,950.0
+251,107,Lucas Rocha,Toledo,PR,208,Adubo MAP,Fertilizantes,2024-09-01,34,210.0
+252,112,Patrícia Nogueira,Maringá,PR,205,Calcário Agrícola,Corretivos,2024-02-01,18,45.0
+253,106,Rafael Costa,Piracicaba,SP,207,Inseticida Sistêmico,Defensivos,2024-02-28,17,680.0
+254,118,Aline Moreira,Jataí,GO,208,Adubo MAP,Fertilizantes,2024-07-17,13,210.0
+255,108,Fernanda Alves,Londrina,PR,204,Fungicida Triazol,Defensivos,2024-02-13,13,950.0
+256,116,Tatiane Lopes,Presidente Prudente,SP,206,Sementes de Soja,Sementes,2024-10-25,28,420.0
+257,113,Renato Farias,Ourinhos,SP,205,Calcário Agrícola,Corretivos,2024-12-11,38,45.0
+258,119,Diego Fonseca,Ribeirão Preto,SP,206,Sementes de Soja,Sementes,2024-04-15,11,420.0
+259,108,Fernanda Alves,Ribeirão Preto,SP,203,Herbicida Glifosato,Defensivos,2024-08-28,18,780.0
+260,119,Diego Fonseca,Cuiabá,MT,207,Inseticida Sistêmico,Defensivos,2024-12-16,6,680.0
+261,114,Camila Barros,Goioerê,PR,208,Adubo MAP,Fertilizantes,2024-09-12,32,210.0
+262,119,Diego Fonseca,Goioerê,PR,206,Sementes de Soja,Sementes,2024-07-31,36,420.0
+263,110,Juliana Pires,Rondonópolis,MT,203,Herbicida Glifosato,Defensivos,2024-08-30,37,780.0
+264,101,João Silva,Londrina,PR,205,Calcário Agrícola,Corretivos,2024-07-11,24,45.0
+265,115,Eduardo Rangel,Londrina,PR,204,Fungicida Triazol,Defensivos,2024-10-29,8,950.0
+266,121,Felipe Guedes,Rondonópolis,MT,202,Sementes de Milho,Sementes,2024-02-09,5,350.0
+267,113,Renato Farias,Campo Grande,MS,207,Inseticida Sistêmico,Defensivos,2024-01-22,17,680.0
+268,102,Maria Souza,Uberlândia,MG,206,Sementes de Soja,Sementes,2024-12-15,23,420.0
+269,101,João Silva,Goioerê,PR,202,Sementes de Milho,Sementes,2024-09-14,10,350.0
+270,118,Aline Moreira,Curitiba,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-08-12,36,120.5
+271,101,João Silva,Dourados,MS,207,Inseticida Sistêmico,Defensivos,2024-05-09,25,680.0
+272,108,Fernanda Alves,Cascavel,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-05-21,5,120.5
+273,103,Carlos Pereira,Uberlândia,MG,208,Adubo MAP,Fertilizantes,2024-08-07,8,210.0
+274,117,Gustavo Azevedo,Assis Chateaubriand,PR,203,Herbicida Glifosato,Defensivos,2024-04-26,9,780.0
+275,103,Carlos Pereira,Londrina,PR,204,Fungicida Triazol,Defensivos,2024-04-08,8,950.0
+276,119,Diego Fonseca,Maringá,PR,203,Herbicida Glifosato,Defensivos,2024-02-23,34,780.0
+277,122,Simone Araújo,Cascavel,PR,208,Adubo MAP,Fertilizantes,2024-11-07,10,210.0
+278,101,João Silva,Ourinhos,SP,208,Adubo MAP,Fertilizantes,2024-03-11,11,210.0
+279,105,Pedro Lima,Rio Verde,GO,201,Adubo NPK 20-05-20,Fertilizantes,2024-11-28,11,120.5
+280,124,Vanessa Pacheco,Umuarama,PR,203,Herbicida Glifosato,Defensivos,2024-02-02,32,780.0
+281,116,Tatiane Lopes,Cascavel,PR,204,Fungicida Triazol,Defensivos,2024-01-07,20,950.0
+282,122,Simone Araújo,Presidente Prudente,SP,204,Fungicida Triazol,Defensivos,2024-09-06,37,950.0
+283,115,Eduardo Rangel,Piracicaba,SP,208,Adubo MAP,Fertilizantes,2024-12-03,20,210.0
+284,122,Simone Araújo,Assis Chateaubriand,PR,208,Adubo MAP,Fertilizantes,2024-07-17,32,210.0
+285,102,Maria Souza,Presidente Prudente,SP,204,Fungicida Triazol,Defensivos,2024-02-24,22,950.0
+286,110,Juliana Pires,Cascavel,PR,206,Sementes de Soja,Sementes,2024-05-30,8,420.0
+287,107,Lucas Rocha,Jataí,GO,202,Sementes de Milho,Sementes,2024-05-08,6,350.0
+288,104,Ana Martins,Campo Grande,MS,208,Adubo MAP,Fertilizantes,2024-12-30,40,210.0
+289,112,Patrícia Nogueira,Campo Grande,MS,203,Herbicida Glifosato,Defensivos,2024-10-10,38,780.0
+290,109,Marcos Vinícius,Dourados,MS,205,Calcário Agrícola,Corretivos,2024-08-10,8,45.0
+291,114,Camila Barros,Piracicaba,SP,207,Inseticida Sistêmico,Defensivos,2024-06-18,35,680.0
+292,112,Patrícia Nogueira,Rondonópolis,MT,202,Sementes de Milho,Sementes,2024-02-28,4,350.0
+293,114,Camila Barros,Goioerê,PR,208,Adubo MAP,Fertilizantes,2024-11-02,40,210.0
+294,112,Patrícia Nogueira,Umuarama,PR,205,Calcário Agrícola,Corretivos,2024-03-24,19,45.0
+295,116,Tatiane Lopes,Dourados,MS,202,Sementes de Milho,Sementes,2024-12-14,24,350.0
+296,105,Pedro Lima,Ribeirão Preto,SP,203,Herbicida Glifosato,Defensivos,2024-11-05,34,780.0
+297,107,Lucas Rocha,Londrina,PR,207,Inseticida Sistêmico,Defensivos,2024-12-24,30,680.0
+298,108,Fernanda Alves,Jataí,GO,208,Adubo MAP,Fertilizantes,2024-09-19,17,210.0
+299,107,Lucas Rocha,Toledo,PR,203,Herbicida Glifosato,Defensivos,2024-01-25,37,780.0
+300,106,Rafael Costa,Campo Grande,MS,205,Calcário Agrícola,Corretivos,2024-07-31,37,45.0
+301,102,Maria Souza,Piracicaba,SP,202,Sementes de Milho,Sementes,2024-09-29,17,350.0
+302,116,Tatiane Lopes,Presidente Prudente,SP,206,Sementes de Soja,Sementes,2024-11-06,6,420.0
+303,124,Vanessa Pacheco,Cuiabá,MT,203,Herbicida Glifosato,Defensivos,2024-07-06,36,780.0
+304,109,Marcos Vinícius,Uberlândia,MG,201,Adubo NPK 20-05-20,Fertilizantes,2024-10-27,11,120.5
+305,105,Pedro Lima,Piracicaba,SP,201,Adubo NPK 20-05-20,Fertilizantes,2024-02-04,21,120.5
+306,109,Marcos Vinícius,Ribeirão Preto,SP,205,Calcário Agrícola,Corretivos,2024-12-21,9,45.0
+307,105,Pedro Lima,Dourados,MS,207,Inseticida Sistêmico,Defensivos,2024-01-13,31,680.0
+308,116,Tatiane Lopes,Uberlândia,MG,204,Fungicida Triazol,Defensivos,2024-08-15,3,950.0
+309,106,Rafael Costa,Dourados,MS,208,Adubo MAP,Fertilizantes,2024-01-25,37,210.0
+310,123,Rodrigo Mello,Presidente Prudente,SP,208,Adubo MAP,Fertilizantes,2024-04-14,34,210.0
+311,111,Bruno Teixeira,Cascavel,PR,206,Sementes de Soja,Sementes,2024-06-11,21,420.0
+312,119,Diego Fonseca,Umuarama,PR,206,Sementes de Soja,Sementes,2024-04-27,12,420.0
+313,118,Aline Moreira,Campo Grande,MS,206,Sementes de Soja,Sementes,2024-05-29,37,420.0
+314,103,Carlos Pereira,Goioerê,PR,204,Fungicida Triazol,Defensivos,2024-07-31,37,950.0
+315,115,Eduardo Rangel,Umuarama,PR,205,Calcário Agrícola,Corretivos,2024-04-02,15,45.0
+316,119,Diego Fonseca,Campo Grande,MS,205,Calcário Agrícola,Corretivos,2024-01-11,28,45.0
+317,123,Rodrigo Mello,Dourados,MS,205,Calcário Agrícola,Corretivos,2024-02-06,21,45.0
+318,105,Pedro Lima,Curitiba,PR,207,Inseticida Sistêmico,Defensivos,2024-01-20,21,680.0
+319,120,Larissa Cunha,Curitiba,PR,202,Sementes de Milho,Sementes,2024-12-06,9,350.0
+320,121,Felipe Guedes,Uberlândia,MG,206,Sementes de Soja,Sementes,2024-08-16,5,420.0
+321,104,Ana Martins,Piracicaba,SP,202,Sementes de Milho,Sementes,2024-10-16,40,350.0
+322,106,Rafael Costa,Goioerê,PR,202,Sementes de Milho,Sementes,2024-01-02,9,350.0
+323,122,Simone Araújo,Cuiabá,MT,206,Sementes de Soja,Sementes,2024-01-20,20,420.0
+324,124,Vanessa Pacheco,Patos de Minas,MG,201,Adubo NPK 20-05-20,Fertilizantes,2024-06-24,27,120.5
+325,119,Diego Fonseca,Curitiba,PR,202,Sementes de Milho,Sementes,2024-10-20,14,350.0
+326,105,Pedro Lima,Maringá,PR,206,Sementes de Soja,Sementes,2024-07-05,32,420.0
+327,119,Diego Fonseca,Cuiabá,MT,202,Sementes de Milho,Sementes,2024-12-11,5,350.0
+328,120,Larissa Cunha,Umuarama,PR,208,Adubo MAP,Fertilizantes,2024-06-14,30,210.0
+329,119,Diego Fonseca,Toledo,PR,203,Herbicida Glifosato,Defensivos,2024-09-25,31,780.0
+330,105,Pedro Lima,Assis Chateaubriand,PR,207,Inseticida Sistêmico,Defensivos,2024-03-26,12,680.0
+331,103,Carlos Pereira,Cuiabá,MT,205,Calcário Agrícola,Corretivos,2024-04-21,13,45.0
+332,122,Simone Araújo,Umuarama,PR,207,Inseticida Sistêmico,Defensivos,2024-01-18,21,680.0
+333,116,Tatiane Lopes,Presidente Prudente,SP,202,Sementes de Milho,Sementes,2024-11-20,12,350.0
+334,108,Fernanda Alves,Assis Chateaubriand,PR,205,Calcário Agrícola,Corretivos,2024-01-03,20,45.0
+335,119,Diego Fonseca,Jataí,GO,206,Sementes de Soja,Sementes,2024-09-15,39,420.0
+336,114,Camila Barros,Patos de Minas,MG,204,Fungicida Triazol,Defensivos,2024-07-01,13,950.0
+337,122,Simone Araújo,Curitiba,PR,208,Adubo MAP,Fertilizantes,2024-01-10,37,210.0
+338,110,Juliana Pires,Campo Grande,MS,204,Fungicida Triazol,Defensivos,2024-08-13,39,950.0
+339,117,Gustavo Azevedo,Jataí,GO,203,Herbicida Glifosato,Defensivos,2024-04-02,14,780.0
+340,122,Simone Araújo,Piracicaba,SP,205,Calcário Agrícola,Corretivos,2024-01-13,23,45.0
+341,123,Rodrigo Mello,Piracicaba,SP,201,Adubo NPK 20-05-20,Fertilizantes,2024-05-09,19,120.5
+342,119,Diego Fonseca,Jataí,GO,201,Adubo NPK 20-05-20,Fertilizantes,2024-06-25,20,120.5
+343,116,Tatiane Lopes,Jataí,GO,201,Adubo NPK 20-05-20,Fertilizantes,2024-02-14,4,120.5
+344,102,Maria Souza,Dourados,MS,205,Calcário Agrícola,Corretivos,2024-12-13,3,45.0
+345,120,Larissa Cunha,Rondonópolis,MT,207,Inseticida Sistêmico,Defensivos,2024-12-28,33,680.0
+346,101,João Silva,Uberlândia,MG,206,Sementes de Soja,Sementes,2024-04-06,21,420.0
+347,103,Carlos Pereira,Dourados,MS,204,Fungicida Triazol,Defensivos,2024-10-03,7,950.0
+348,120,Larissa Cunha,Maringá,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-05-28,38,120.5
+349,109,Marcos Vinícius,Uberlândia,MG,203,Herbicida Glifosato,Defensivos,2024-05-17,37,780.0
+350,120,Larissa Cunha,Piracicaba,SP,207,Inseticida Sistêmico,Defensivos,2024-02-10,32,680.0
+351,122,Simone Araújo,Uberlândia,MG,203,Herbicida Glifosato,Defensivos,2024-12-28,16,780.0
+352,119,Diego Fonseca,Cascavel,PR,208,Adubo MAP,Fertilizantes,2024-05-05,6,210.0
+353,109,Marcos Vinícius,Ourinhos,SP,205,Calcário Agrícola,Corretivos,2024-12-02,8,45.0
+354,102,Maria Souza,Toledo,PR,207,Inseticida Sistêmico,Defensivos,2024-01-07,25,680.0
+355,124,Vanessa Pacheco,Rondonópolis,MT,201,Adubo NPK 20-05-20,Fertilizantes,2024-03-16,2,120.5
+356,123,Rodrigo Mello,Uberlândia,MG,207,Inseticida Sistêmico,Defensivos,2024-07-22,33,680.0
+357,112,Patrícia Nogueira,Rio Verde,GO,201,Adubo NPK 20-05-20,Fertilizantes,2024-09-26,40,120.5
+358,102,Maria Souza,Umuarama,PR,205,Calcário Agrícola,Corretivos,2024-07-16,6,45.0
+359,101,João Silva,Uberlândia,MG,207,Inseticida Sistêmico,Defensivos,2024-04-26,30,680.0
+360,121,Felipe Guedes,Ribeirão Preto,SP,203,Herbicida Glifosato,Defensivos,2024-06-27,27,780.0
+361,113,Renato Farias,Goioerê,PR,207,Inseticida Sistêmico,Defensivos,2024-06-04,37,680.0
+362,116,Tatiane Lopes,Ourinhos,SP,206,Sementes de Soja,Sementes,2024-08-27,24,420.0
+363,113,Renato Farias,Ourinhos,SP,203,Herbicida Glifosato,Defensivos,2024-08-13,7,780.0
+364,122,Simone Araújo,Cascavel,PR,208,Adubo MAP,Fertilizantes,2024-04-19,15,210.0
+365,115,Eduardo Rangel,Maringá,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-08-26,13,120.5
+366,119,Diego Fonseca,Cascavel,PR,202,Sementes de Milho,Sementes,2024-03-29,6,350.0
+367,109,Marcos Vinícius,Jataí,GO,201,Adubo NPK 20-05-20,Fertilizantes,2024-09-14,6,120.5
+368,106,Rafael Costa,Campo Grande,MS,202,Sementes de Milho,Sementes,2024-02-15,1,350.0
+369,123,Rodrigo Mello,Goioerê,PR,205,Calcário Agrícola,Corretivos,2024-03-24,33,45.0
+370,108,Fernanda Alves,Maringá,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-09-28,14,120.5
+371,112,Patrícia Nogueira,Cascavel,PR,202,Sementes de Milho,Sementes,2024-04-15,14,350.0
+372,119,Diego Fonseca,Maringá,PR,202,Sementes de Milho,Sementes,2024-04-29,29,350.0
+373,120,Larissa Cunha,Toledo,PR,204,Fungicida Triazol,Defensivos,2024-04-30,39,950.0
+374,119,Diego Fonseca,Uberlândia,MG,204,Fungicida Triazol,Defensivos,2024-10-17,3,950.0
+375,104,Ana Martins,Londrina,PR,203,Herbicida Glifosato,Defensivos,2024-09-10,8,780.0
+376,111,Bruno Teixeira,Presidente Prudente,SP,204,Fungicida Triazol,Defensivos,2024-02-07,16,950.0
+377,112,Patrícia Nogueira,Curitiba,PR,207,Inseticida Sistêmico,Defensivos,2024-08-15,4,680.0
+378,110,Juliana Pires,Maringá,PR,202,Sementes de Milho,Sementes,2024-12-04,35,350.0
+379,121,Felipe Guedes,Uberlândia,MG,206,Sementes de Soja,Sementes,2024-12-14,9,420.0
+380,104,Ana Martins,Toledo,PR,203,Herbicida Glifosato,Defensivos,2024-04-09,6,780.0
+381,116,Tatiane Lopes,Presidente Prudente,SP,205,Calcário Agrícola,Corretivos,2024-04-09,31,45.0
+382,122,Simone Araújo,Umuarama,PR,207,Inseticida Sistêmico,Defensivos,2024-01-15,23,680.0
+383,125,André Ribeiro,Londrina,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-03-21,35,120.5
+384,123,Rodrigo Mello,Curitiba,PR,207,Inseticida Sistêmico,Defensivos,2024-01-29,30,680.0
+385,113,Renato Farias,Ourinhos,SP,205,Calcário Agrícola,Corretivos,2024-12-14,37,45.0
+386,103,Carlos Pereira,Jataí,GO,202,Sementes de Milho,Sementes,2024-07-17,31,350.0
+387,125,André Ribeiro,Dourados,MS,201,Adubo NPK 20-05-20,Fertilizantes,2024-05-26,10,120.5
+388,124,Vanessa Pacheco,Umuarama,PR,207,Inseticida Sistêmico,Defensivos,2024-05-08,22,680.0
+389,121,Felipe Guedes,Presidente Prudente,SP,202,Sementes de Milho,Sementes,2024-01-18,17,350.0
+390,121,Felipe Guedes,Jataí,GO,206,Sementes de Soja,Sementes,2024-12-11,39,420.0
+391,101,João Silva,Maringá,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-01-25,16,120.5
+392,122,Simone Araújo,Goioerê,PR,207,Inseticida Sistêmico,Defensivos,2024-05-21,9,680.0
+393,115,Eduardo Rangel,Maringá,PR,204,Fungicida Triazol,Defensivos,2024-02-27,13,950.0
+394,125,André Ribeiro,Piracicaba,SP,204,Fungicida Triazol,Defensivos,2024-10-08,6,950.0
+395,110,Juliana Pires,Assis Chateaubriand,PR,206,Sementes de Soja,Sementes,2024-06-03,3,420.0
+396,106,Rafael Costa,Goioerê,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-04-10,29,120.5
+397,119,Diego Fonseca,Jataí,GO,202,Sementes de Milho,Sementes,2024-04-03,16,350.0
+398,111,Bruno Teixeira,Rondonópolis,MT,207,Inseticida Sistêmico,Defensivos,2024-01-17,11,680.0
+399,125,André Ribeiro,Jataí,GO,208,Adubo MAP,Fertilizantes,2024-03-03,8,210.0
+400,118,Aline Moreira,Ribeirão Preto,SP,203,Herbicida Glifosato,Defensivos,2024-08-25,1,780.0
+401,117,Gustavo Azevedo,Patos de Minas,MG,205,Calcário Agrícola,Corretivos,2024-10-17,29,45.0
+402,103,Carlos Pereira,Ribeirão Preto,SP,204,Fungicida Triazol,Defensivos,2024-09-25,19,950.0
+403,117,Gustavo Azevedo,Goioerê,PR,207,Inseticida Sistêmico,Defensivos,2024-03-23,5,680.0
+404,123,Rodrigo Mello,Rio Verde,GO,203,Herbicida Glifosato,Defensivos,2024-01-05,31,780.0
+405,112,Patrícia Nogueira,Dourados,MS,207,Inseticida Sistêmico,Defensivos,2024-06-15,10,680.0
+406,104,Ana Martins,Jataí,GO,207,Inseticida Sistêmico,Defensivos,2024-08-17,31,680.0
+407,110,Juliana Pires,Goioerê,PR,202,Sementes de Milho,Sementes,2024-03-23,36,350.0
+408,114,Camila Barros,Umuarama,PR,207,Inseticida Sistêmico,Defensivos,2024-05-10,7,680.0
+409,122,Simone Araújo,Curitiba,PR,202,Sementes de Milho,Sementes,2024-04-28,26,350.0
+410,109,Marcos Vinícius,Cascavel,PR,205,Calcário Agrícola,Corretivos,2024-07-12,34,45.0
+411,111,Bruno Teixeira,Ourinhos,SP,204,Fungicida Triazol,Defensivos,2024-07-05,23,950.0
+412,110,Juliana Pires,Rondonópolis,MT,202,Sementes de Milho,Sementes,2024-12-22,34,350.0
+413,103,Carlos Pereira,Patos de Minas,MG,205,Calcário Agrícola,Corretivos,2024-12-17,2,45.0
+414,101,João Silva,Patos de Minas,MG,201,Adubo NPK 20-05-20,Fertilizantes,2024-10-31,2,120.5
+415,104,Ana Martins,Uberlândia,MG,203,Herbicida Glifosato,Defensivos,2024-02-29,3,780.0
+416,113,Renato Farias,Toledo,PR,202,Sementes de Milho,Sementes,2024-06-13,22,350.0
+417,102,Maria Souza,Dourados,MS,208,Adubo MAP,Fertilizantes,2024-09-05,27,210.0
+418,122,Simone Araújo,Presidente Prudente,SP,204,Fungicida Triazol,Defensivos,2024-03-13,11,950.0
+419,121,Felipe Guedes,Cuiabá,MT,202,Sementes de Milho,Sementes,2024-10-12,40,350.0
+420,117,Gustavo Azevedo,Campo Grande,MS,203,Herbicida Glifosato,Defensivos,2024-07-01,33,780.0
+421,113,Renato Farias,Assis Chateaubriand,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-02-10,9,120.5
+422,107,Lucas Rocha,Toledo,PR,207,Inseticida Sistêmico,Defensivos,2024-06-23,32,680.0
+423,124,Vanessa Pacheco,Presidente Prudente,SP,202,Sementes de Milho,Sementes,2024-07-14,7,350.0
+424,119,Diego Fonseca,Dourados,MS,204,Fungicida Triazol,Defensivos,2024-05-02,4,950.0
+425,117,Gustavo Azevedo,Cascavel,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-09-08,4,120.5
+426,102,Maria Souza,Campo Grande,MS,207,Inseticida Sistêmico,Defensivos,2024-07-20,21,680.0
+427,118,Aline Moreira,Piracicaba,SP,203,Herbicida Glifosato,Defensivos,2024-08-22,34,780.0
+428,116,Tatiane Lopes,Campo Grande,MS,204,Fungicida Triazol,Defensivos,2024-11-20,3,950.0
+429,121,Felipe Guedes,Rondonópolis,MT,208,Adubo MAP,Fertilizantes,2024-09-23,5,210.0
+430,125,André Ribeiro,Assis Chateaubriand,PR,206,Sementes de Soja,Sementes,2024-01-29,21,420.0
+431,111,Bruno Teixeira,Umuarama,PR,207,Inseticida Sistêmico,Defensivos,2024-12-08,22,680.0
+432,117,Gustavo Azevedo,Goioerê,PR,207,Inseticida Sistêmico,Defensivos,2024-08-03,37,680.0
+433,111,Bruno Teixeira,Umuarama,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-07-16,27,120.5
+434,113,Renato Farias,Curitiba,PR,203,Herbicida Glifosato,Defensivos,2024-10-01,15,780.0
+435,118,Aline Moreira,Rio Verde,GO,207,Inseticida Sistêmico,Defensivos,2024-12-17,32,680.0
+436,102,Maria Souza,Maringá,PR,206,Sementes de Soja,Sementes,2024-12-27,22,420.0
+437,116,Tatiane Lopes,Londrina,PR,207,Inseticida Sistêmico,Defensivos,2024-02-24,24,680.0
+438,121,Felipe Guedes,Curitiba,PR,207,Inseticida Sistêmico,Defensivos,2024-04-26,3,680.0
+439,107,Lucas Rocha,Rio Verde,GO,203,Herbicida Glifosato,Defensivos,2024-12-02,16,780.0
+440,101,João Silva,Rondonópolis,MT,204,Fungicida Triazol,Defensivos,2024-02-17,35,950.0
+441,108,Fernanda Alves,Ribeirão Preto,SP,201,Adubo NPK 20-05-20,Fertilizantes,2024-08-08,6,120.5
+442,113,Renato Farias,Piracicaba,SP,203,Herbicida Glifosato,Defensivos,2024-06-25,5,780.0
+443,121,Felipe Guedes,Rondonópolis,MT,207,Inseticida Sistêmico,Defensivos,2024-02-15,12,680.0
+444,111,Bruno Teixeira,Rondonópolis,MT,202,Sementes de Milho,Sementes,2024-08-03,12,350.0
+445,115,Eduardo Rangel,Uberlândia,MG,202,Sementes de Milho,Sementes,2024-10-10,23,350.0
+446,103,Carlos Pereira,Uberlândia,MG,206,Sementes de Soja,Sementes,2024-06-06,20,420.0
+447,125,André Ribeiro,Curitiba,PR,204,Fungicida Triazol,Defensivos,2024-08-15,28,950.0
+448,120,Larissa Cunha,Goioerê,PR,203,Herbicida Glifosato,Defensivos,2024-07-18,37,780.0
+449,120,Larissa Cunha,Umuarama,PR,204,Fungicida Triazol,Defensivos,2024-05-24,21,950.0
+450,103,Carlos Pereira,Piracicaba,SP,204,Fungicida Triazol,Defensivos,2024-05-02,20,950.0
+451,104,Ana Martins,Goioerê,PR,208,Adubo MAP,Fertilizantes,2024-07-17,18,210.0
+452,108,Fernanda Alves,Uberlândia,MG,208,Adubo MAP,Fertilizantes,2024-09-01,13,210.0
+453,115,Eduardo Rangel,Umuarama,PR,207,Inseticida Sistêmico,Defensivos,2024-11-06,10,680.0
+454,118,Aline Moreira,Uberlândia,MG,202,Sementes de Milho,Sementes,2024-06-02,2,350.0
+455,112,Patrícia Nogueira,Toledo,PR,204,Fungicida Triazol,Defensivos,2024-04-19,10,950.0
+456,120,Larissa Cunha,Piracicaba,SP,204,Fungicida Triazol,Defensivos,2024-12-05,4,950.0
+457,111,Bruno Teixeira,Uberlândia,MG,205,Calcário Agrícola,Corretivos,2024-06-18,15,45.0
+458,114,Camila Barros,Londrina,PR,207,Inseticida Sistêmico,Defensivos,2024-12-21,10,680.0
+459,108,Fernanda Alves,Piracicaba,SP,205,Calcário Agrícola,Corretivos,2024-11-18,7,45.0
+460,104,Ana Martins,Toledo,PR,202,Sementes de Milho,Sementes,2024-07-24,12,350.0
+461,115,Eduardo Rangel,Ourinhos,SP,202,Sementes de Milho,Sementes,2024-10-12,31,350.0
+462,122,Simone Araújo,Curitiba,PR,208,Adubo MAP,Fertilizantes,2024-09-01,37,210.0
+463,116,Tatiane Lopes,Patos de Minas,MG,202,Sementes de Milho,Sementes,2024-05-14,15,350.0
+464,115,Eduardo Rangel,Goioerê,PR,205,Calcário Agrícola,Corretivos,2024-07-01,40,45.0
+465,124,Vanessa Pacheco,Goioerê,PR,205,Calcário Agrícola,Corretivos,2024-05-20,36,45.0
+466,110,Juliana Pires,Rio Verde,GO,202,Sementes de Milho,Sementes,2024-06-22,24,350.0
+467,121,Felipe Guedes,Cascavel,PR,207,Inseticida Sistêmico,Defensivos,2024-12-01,19,680.0
+468,107,Lucas Rocha,Rondonópolis,MT,206,Sementes de Soja,Sementes,2024-04-17,35,420.0
+469,117,Gustavo Azevedo,Cuiabá,MT,203,Herbicida Glifosato,Defensivos,2024-09-29,11,780.0
+470,102,Maria Souza,Uberlândia,MG,208,Adubo MAP,Fertilizantes,2024-05-21,29,210.0
+471,116,Tatiane Lopes,Umuarama,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-11-27,33,120.5
+472,122,Simone Araújo,Ribeirão Preto,SP,207,Inseticida Sistêmico,Defensivos,2024-06-17,21,680.0
+473,105,Pedro Lima,Goioerê,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-11-26,21,120.5
+474,117,Gustavo Azevedo,Assis Chateaubriand,PR,206,Sementes de Soja,Sementes,2024-10-22,39,420.0
+475,120,Larissa Cunha,Uberlândia,MG,207,Inseticida Sistêmico,Defensivos,2024-02-08,35,680.0
+476,107,Lucas Rocha,Rondonópolis,MT,204,Fungicida Triazol,Defensivos,2024-09-27,35,950.0
+477,101,João Silva,Toledo,PR,206,Sementes de Soja,Sementes,2024-06-25,34,420.0
+478,104,Ana Martins,Rondonópolis,MT,202,Sementes de Milho,Sementes,2024-05-13,39,350.0
+479,125,André Ribeiro,Campo Grande,MS,202,Sementes de Milho,Sementes,2024-01-30,2,350.0
+480,111,Bruno Teixeira,Rio Verde,GO,202,Sementes de Milho,Sementes,2024-10-30,18,350.0
+481,118,Aline Moreira,Maringá,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-06-06,9,120.5
+482,113,Renato Farias,Patos de Minas,MG,207,Inseticida Sistêmico,Defensivos,2024-07-10,20,680.0
+483,101,João Silva,Assis Chateaubriand,PR,202,Sementes de Milho,Sementes,2024-11-06,24,350.0
+484,125,André Ribeiro,Umuarama,PR,206,Sementes de Soja,Sementes,2024-03-23,2,420.0
+485,114,Camila Barros,Dourados,MS,208,Adubo MAP,Fertilizantes,2024-11-13,16,210.0
+486,112,Patrícia Nogueira,Londrina,PR,208,Adubo MAP,Fertilizantes,2024-07-17,40,210.0
+487,107,Lucas Rocha,Presidente Prudente,SP,206,Sementes de Soja,Sementes,2024-05-13,38,420.0
+488,124,Vanessa Pacheco,Rondonópolis,MT,202,Sementes de Milho,Sementes,2024-01-29,15,350.0
+489,117,Gustavo Azevedo,Umuarama,PR,203,Herbicida Glifosato,Defensivos,2024-04-28,27,780.0
+490,101,João Silva,Umuarama,PR,202,Sementes de Milho,Sementes,2024-02-18,26,350.0
+491,103,Carlos Pereira,Ourinhos,SP,202,Sementes de Milho,Sementes,2024-03-14,19,350.0
+492,116,Tatiane Lopes,Piracicaba,SP,207,Inseticida Sistêmico,Defensivos,2024-07-04,19,680.0
+493,111,Bruno Teixeira,Dourados,MS,203,Herbicida Glifosato,Defensivos,2024-02-04,21,780.0
+494,117,Gustavo Azevedo,Rondonópolis,MT,206,Sementes de Soja,Sementes,2024-01-19,15,420.0
+495,112,Patrícia Nogueira,Cascavel,PR,202,Sementes de Milho,Sementes,2024-12-14,33,350.0
+496,109,Marcos Vinícius,Goioerê,PR,207,Inseticida Sistêmico,Defensivos,2024-03-08,14,680.0
+497,104,Ana Martins,Toledo,PR,208,Adubo MAP,Fertilizantes,2024-06-07,23,210.0
+498,107,Lucas Rocha,Assis Chateaubriand,PR,206,Sementes de Soja,Sementes,2024-08-14,14,420.0
+499,102,Maria Souza,Dourados,MS,202,Sementes de Milho,Sementes,2024-12-17,3,350.0
+500,116,Tatiane Lopes,Maringá,PR,203,Herbicida Glifosato,Defensivos,2024-08-04,25,780.0
+501,125,André Ribeiro,Campo Grande,MS,203,Herbicida Glifosato,Defensivos,2024-03-02,12,780.0
+502,124,Vanessa Pacheco,Toledo,PR,207,Inseticida Sistêmico,Defensivos,2024-08-27,34,680.0
+503,120,Larissa Cunha,Toledo,PR,202,Sementes de Milho,Sementes,2024-07-05,35,350.0
+504,117,Gustavo Azevedo,Umuarama,PR,206,Sementes de Soja,Sementes,2024-04-26,40,420.0
+505,118,Aline Moreira,Uberlândia,MG,208,Adubo MAP,Fertilizantes,2024-07-17,22,210.0
+506,109,Marcos Vinícius,Dourados,MS,206,Sementes de Soja,Sementes,2024-10-08,35,420.0
+507,113,Renato Farias,Rio Verde,GO,202,Sementes de Milho,Sementes,2024-05-27,30,350.0
+508,115,Eduardo Rangel,Campo Grande,MS,203,Herbicida Glifosato,Defensivos,2024-03-08,32,780.0
+509,101,João Silva,Dourados,MS,202,Sementes de Milho,Sementes,2024-03-30,29,350.0
+510,105,Pedro Lima,Curitiba,PR,202,Sementes de Milho,Sementes,2024-11-06,12,350.0
+511,110,Juliana Pires,Cuiabá,MT,203,Herbicida Glifosato,Defensivos,2024-06-25,21,780.0
+512,112,Patrícia Nogueira,Rondonópolis,MT,203,Herbicida Glifosato,Defensivos,2024-04-28,40,780.0
+513,108,Fernanda Alves,Assis Chateaubriand,PR,203,Herbicida Glifosato,Defensivos,2024-10-23,28,780.0
+514,122,Simone Araújo,Dourados,MS,208,Adubo MAP,Fertilizantes,2024-08-29,14,210.0
+515,112,Patrícia Nogueira,Patos de Minas,MG,204,Fungicida Triazol,Defensivos,2024-05-23,27,950.0
+516,109,Marcos Vinícius,Campo Grande,MS,201,Adubo NPK 20-05-20,Fertilizantes,2024-03-24,17,120.5
+517,101,João Silva,Rondonópolis,MT,208,Adubo MAP,Fertilizantes,2024-10-20,31,210.0
+518,102,Maria Souza,Rondonópolis,MT,205,Calcário Agrícola,Corretivos,2024-03-20,25,45.0
+519,110,Juliana Pires,Uberlândia,MG,202,Sementes de Milho,Sementes,2024-04-06,25,350.0
+520,122,Simone Araújo,Goioerê,PR,207,Inseticida Sistêmico,Defensivos,2024-03-21,24,680.0
+521,119,Diego Fonseca,Dourados,MS,207,Inseticida Sistêmico,Defensivos,2024-06-28,27,680.0
+522,115,Eduardo Rangel,Jataí,GO,204,Fungicida Triazol,Defensivos,2024-08-11,27,950.0
+523,121,Felipe Guedes,Cuiabá,MT,206,Sementes de Soja,Sementes,2024-04-10,15,420.0
+524,112,Patrícia Nogueira,Rio Verde,GO,201,Adubo NPK 20-05-20,Fertilizantes,2024-11-24,39,120.5
+525,111,Bruno Teixeira,Dourados,MS,208,Adubo MAP,Fertilizantes,2024-11-21,3,210.0
+526,122,Simone Araújo,Patos de Minas,MG,208,Adubo MAP,Fertilizantes,2024-07-24,11,210.0
+527,102,Maria Souza,Dourados,MS,206,Sementes de Soja,Sementes,2024-12-10,2,420.0
+528,105,Pedro Lima,Umuarama,PR,202,Sementes de Milho,Sementes,2024-09-22,6,350.0
+529,122,Simone Araújo,Curitiba,PR,202,Sementes de Milho,Sementes,2024-12-27,25,350.0
+530,125,André Ribeiro,Toledo,PR,202,Sementes de Milho,Sementes,2024-04-21,10,350.0
+531,102,Maria Souza,Cascavel,PR,202,Sementes de Milho,Sementes,2024-01-04,3,350.0
+532,116,Tatiane Lopes,Cascavel,PR,208,Adubo MAP,Fertilizantes,2024-06-15,10,210.0
+533,109,Marcos Vinícius,Cuiabá,MT,205,Calcário Agrícola,Corretivos,2024-09-14,1,45.0
+534,125,André Ribeiro,Londrina,PR,206,Sementes de Soja,Sementes,2024-04-17,12,420.0
+535,117,Gustavo Azevedo,Campo Grande,MS,206,Sementes de Soja,Sementes,2024-05-20,24,420.0
+536,106,Rafael Costa,Londrina,PR,206,Sementes de Soja,Sementes,2024-06-15,8,420.0
+537,105,Pedro Lima,Piracicaba,SP,203,Herbicida Glifosato,Defensivos,2024-04-24,3,780.0
+538,102,Maria Souza,Jataí,GO,206,Sementes de Soja,Sementes,2024-04-27,19,420.0
+539,122,Simone Araújo,Cuiabá,MT,206,Sementes de Soja,Sementes,2024-02-14,36,420.0
+540,104,Ana Martins,Assis Chateaubriand,PR,207,Inseticida Sistêmico,Defensivos,2024-01-14,18,680.0
+541,121,Felipe Guedes,Dourados,MS,208,Adubo MAP,Fertilizantes,2024-10-07,1,210.0
+542,112,Patrícia Nogueira,Cascavel,PR,203,Herbicida Glifosato,Defensivos,2024-09-18,10,780.0
+543,106,Rafael Costa,Curitiba,PR,206,Sementes de Soja,Sementes,2024-02-24,18,420.0
+544,122,Simone Araújo,Curitiba,PR,203,Herbicida Glifosato,Defensivos,2024-08-04,8,780.0
+545,113,Renato Farias,Goioerê,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-01-06,15,120.5
+546,125,André Ribeiro,Londrina,PR,204,Fungicida Triazol,Defensivos,2024-11-11,12,950.0
+547,103,Carlos Pereira,Maringá,PR,202,Sementes de Milho,Sementes,2024-01-25,18,350.0
+548,109,Marcos Vinícius,Goioerê,PR,204,Fungicida Triazol,Defensivos,2024-04-19,27,950.0
+549,116,Tatiane Lopes,Rondonópolis,MT,206,Sementes de Soja,Sementes,2024-03-19,39,420.0
+550,103,Carlos Pereira,Cuiabá,MT,202,Sementes de Milho,Sementes,2024-05-19,26,350.0
+551,117,Gustavo Azevedo,Dourados,MS,203,Herbicida Glifosato,Defensivos,2024-10-22,31,780.0
+552,113,Renato Farias,Goioerê,PR,203,Herbicida Glifosato,Defensivos,2024-06-04,2,780.0
+553,125,André Ribeiro,Campo Grande,MS,205,Calcário Agrícola,Corretivos,2024-07-31,13,45.0
+554,108,Fernanda Alves,Uberlândia,MG,208,Adubo MAP,Fertilizantes,2024-01-27,6,210.0
+555,105,Pedro Lima,Goioerê,PR,205,Calcário Agrícola,Corretivos,2024-10-24,40,45.0
+556,109,Marcos Vinícius,Patos de Minas,MG,204,Fungicida Triazol,Defensivos,2024-09-23,33,950.0
+557,102,Maria Souza,Ribeirão Preto,SP,203,Herbicida Glifosato,Defensivos,2024-07-29,20,780.0
+558,124,Vanessa Pacheco,Piracicaba,SP,206,Sementes de Soja,Sementes,2024-03-26,6,420.0
+559,121,Felipe Guedes,Cascavel,PR,205,Calcário Agrícola,Corretivos,2024-04-23,24,45.0
+560,114,Camila Barros,Goioerê,PR,206,Sementes de Soja,Sementes,2024-04-18,17,420.0
+561,121,Felipe Guedes,Ourinhos,SP,203,Herbicida Glifosato,Defensivos,2024-09-03,20,780.0
+562,119,Diego Fonseca,Assis Chateaubriand,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-10-27,35,120.5
+563,101,João Silva,Maringá,PR,205,Calcário Agrícola,Corretivos,2024-02-11,11,45.0
+564,114,Camila Barros,Piracicaba,SP,203,Herbicida Glifosato,Defensivos,2024-05-21,14,780.0
+565,114,Camila Barros,Assis Chateaubriand,PR,208,Adubo MAP,Fertilizantes,2024-06-13,34,210.0
+566,125,André Ribeiro,Uberlândia,MG,204,Fungicida Triazol,Defensivos,2024-02-01,9,950.0
+567,103,Carlos Pereira,Cascavel,PR,208,Adubo MAP,Fertilizantes,2024-04-04,20,210.0
+568,123,Rodrigo Mello,Curitiba,PR,202,Sementes de Milho,Sementes,2024-08-05,20,350.0
+569,119,Diego Fonseca,Goioerê,PR,204,Fungicida Triazol,Defensivos,2024-01-19,1,950.0
+570,115,Eduardo Rangel,Cuiabá,MT,207,Inseticida Sistêmico,Defensivos,2024-07-16,21,680.0
+571,102,Maria Souza,Goioerê,PR,202,Sementes de Milho,Sementes,2024-06-02,23,350.0
+572,123,Rodrigo Mello,Curitiba,PR,202,Sementes de Milho,Sementes,2024-03-23,16,350.0
+573,106,Rafael Costa,Campo Grande,MS,201,Adubo NPK 20-05-20,Fertilizantes,2024-11-27,31,120.5
+574,120,Larissa Cunha,Maringá,PR,208,Adubo MAP,Fertilizantes,2024-06-07,8,210.0
+575,105,Pedro Lima,Curitiba,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-12-16,16,120.5
+576,107,Lucas Rocha,Londrina,PR,206,Sementes de Soja,Sementes,2024-09-25,22,420.0
+577,102,Maria Souza,Umuarama,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-04-26,10,120.5
+578,123,Rodrigo Mello,Ourinhos,SP,208,Adubo MAP,Fertilizantes,2024-11-09,1,210.0
+579,105,Pedro Lima,Umuarama,PR,202,Sementes de Milho,Sementes,2024-07-26,5,350.0
+580,120,Larissa Cunha,Assis Chateaubriand,PR,205,Calcário Agrícola,Corretivos,2024-09-15,22,45.0
+581,102,Maria Souza,Ourinhos,SP,204,Fungicida Triazol,Defensivos,2024-03-07,26,950.0
+582,124,Vanessa Pacheco,Assis Chateaubriand,PR,205,Calcário Agrícola,Corretivos,2024-06-11,17,45.0
+583,112,Patrícia Nogueira,Piracicaba,SP,204,Fungicida Triazol,Defensivos,2024-10-04,16,950.0
+584,124,Vanessa Pacheco,Curitiba,PR,204,Fungicida Triazol,Defensivos,2024-01-07,28,950.0
+585,116,Tatiane Lopes,Cuiabá,MT,206,Sementes de Soja,Sementes,2024-08-31,13,420.0
+586,118,Aline Moreira,Cuiabá,MT,208,Adubo MAP,Fertilizantes,2024-01-21,9,210.0
+587,104,Ana Martins,Piracicaba,SP,203,Herbicida Glifosato,Defensivos,2024-11-22,20,780.0
+588,102,Maria Souza,Rondonópolis,MT,207,Inseticida Sistêmico,Defensivos,2024-01-08,40,680.0
+589,114,Camila Barros,Dourados,MS,203,Herbicida Glifosato,Defensivos,2024-02-03,17,780.0
+590,120,Larissa Cunha,Cascavel,PR,206,Sementes de Soja,Sementes,2024-06-06,20,420.0
+591,123,Rodrigo Mello,Cascavel,PR,204,Fungicida Triazol,Defensivos,2024-07-28,25,950.0
+592,103,Carlos Pereira,Ourinhos,SP,205,Calcário Agrícola,Corretivos,2024-03-09,32,45.0
+593,112,Patrícia Nogueira,Rio Verde,GO,206,Sementes de Soja,Sementes,2024-12-05,39,420.0
+594,113,Renato Farias,Presidente Prudente,SP,206,Sementes de Soja,Sementes,2024-09-22,20,420.0
+595,122,Simone Araújo,Maringá,PR,203,Herbicida Glifosato,Defensivos,2024-05-11,12,780.0
+596,110,Juliana Pires,Toledo,PR,204,Fungicida Triazol,Defensivos,2024-05-03,33,950.0
+597,111,Bruno Teixeira,Ribeirão Preto,SP,204,Fungicida Triazol,Defensivos,2024-06-17,31,950.0
+598,106,Rafael Costa,Goioerê,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-09-25,20,120.5
+599,108,Fernanda Alves,Cascavel,PR,202,Sementes de Milho,Sementes,2024-05-15,4,350.0
+600,109,Marcos Vinícius,Londrina,PR,205,Calcário Agrícola,Corretivos,2024-07-09,15,45.0
+601,115,Eduardo Rangel,Maringá,PR,203,Herbicida Glifosato,Defensivos,2024-04-23,24,780.0
+602,120,Larissa Cunha,Assis Chateaubriand,PR,206,Sementes de Soja,Sementes,2024-01-24,2,420.0
+603,109,Marcos Vinícius,Rondonópolis,MT,201,Adubo NPK 20-05-20,Fertilizantes,2024-07-06,10,120.5
+604,112,Patrícia Nogueira,Campo Grande,MS,202,Sementes de Milho,Sementes,2024-07-19,23,350.0
+605,120,Larissa Cunha,Cuiabá,MT,207,Inseticida Sistêmico,Defensivos,2024-10-29,18,680.0
+606,115,Eduardo Rangel,Assis Chateaubriand,PR,208,Adubo MAP,Fertilizantes,2024-12-24,27,210.0
+607,122,Simone Araújo,Ourinhos,SP,207,Inseticida Sistêmico,Defensivos,2024-07-05,10,680.0
+608,124,Vanessa Pacheco,Umuarama,PR,206,Sementes de Soja,Sementes,2024-11-25,5,420.0
+609,113,Renato Farias,Ribeirão Preto,SP,205,Calcário Agrícola,Corretivos,2024-08-07,3,45.0
+610,101,João Silva,Assis Chateaubriand,PR,206,Sementes de Soja,Sementes,2024-08-11,37,420.0
+611,106,Rafael Costa,Goioerê,PR,206,Sementes de Soja,Sementes,2024-05-23,30,420.0
+612,118,Aline Moreira,Rondonópolis,MT,203,Herbicida Glifosato,Defensivos,2024-12-12,39,780.0
+613,123,Rodrigo Mello,Jataí,GO,202,Sementes de Milho,Sementes,2024-12-21,17,350.0
+614,103,Carlos Pereira,Jataí,GO,204,Fungicida Triazol,Defensivos,2024-03-08,32,950.0
+615,115,Eduardo Rangel,Rio Verde,GO,208,Adubo MAP,Fertilizantes,2024-07-29,12,210.0
+616,125,André Ribeiro,Cascavel,PR,203,Herbicida Glifosato,Defensivos,2024-01-08,32,780.0
+617,112,Patrícia Nogueira,Campo Grande,MS,204,Fungicida Triazol,Defensivos,2024-06-17,40,950.0
+618,105,Pedro Lima,Londrina,PR,207,Inseticida Sistêmico,Defensivos,2024-02-14,2,680.0
+619,111,Bruno Teixeira,Rio Verde,GO,201,Adubo NPK 20-05-20,Fertilizantes,2024-05-15,7,120.5
+620,103,Carlos Pereira,Assis Chateaubriand,PR,204,Fungicida Triazol,Defensivos,2024-04-25,29,950.0
+621,116,Tatiane Lopes,Maringá,PR,208,Adubo MAP,Fertilizantes,2024-11-15,18,210.0
+622,110,Juliana Pires,Umuarama,PR,208,Adubo MAP,Fertilizantes,2024-05-24,36,210.0
+623,117,Gustavo Azevedo,Rondonópolis,MT,203,Herbicida Glifosato,Defensivos,2024-11-01,30,780.0
+624,117,Gustavo Azevedo,Cuiabá,MT,208,Adubo MAP,Fertilizantes,2024-07-10,11,210.0
+625,115,Eduardo Rangel,Ourinhos,SP,205,Calcário Agrícola,Corretivos,2024-12-28,40,45.0
+626,120,Larissa Cunha,Goioerê,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-01-02,26,120.5
+627,112,Patrícia Nogueira,Piracicaba,SP,207,Inseticida Sistêmico,Defensivos,2024-09-30,21,680.0
+628,120,Larissa Cunha,Assis Chateaubriand,PR,206,Sementes de Soja,Sementes,2024-08-30,5,420.0
+629,122,Simone Araújo,Rio Verde,GO,206,Sementes de Soja,Sementes,2024-10-10,40,420.0
+630,105,Pedro Lima,Patos de Minas,MG,207,Inseticida Sistêmico,Defensivos,2024-02-13,28,680.0
+631,118,Aline Moreira,Uberlândia,MG,208,Adubo MAP,Fertilizantes,2024-01-14,22,210.0
+632,118,Aline Moreira,Presidente Prudente,SP,204,Fungicida Triazol,Defensivos,2024-06-14,21,950.0
+633,115,Eduardo Rangel,Assis Chateaubriand,PR,208,Adubo MAP,Fertilizantes,2024-12-20,28,210.0
+634,119,Diego Fonseca,Assis Chateaubriand,PR,204,Fungicida Triazol,Defensivos,2024-01-16,20,950.0
+635,113,Renato Farias,Curitiba,PR,208,Adubo MAP,Fertilizantes,2024-09-24,12,210.0
+636,120,Larissa Cunha,Patos de Minas,MG,205,Calcário Agrícola,Corretivos,2024-11-08,28,45.0
+637,102,Maria Souza,Rio Verde,GO,208,Adubo MAP,Fertilizantes,2024-05-16,18,210.0
+638,104,Ana Martins,Umuarama,PR,208,Adubo MAP,Fertilizantes,2024-12-27,18,210.0
+639,121,Felipe Guedes,Dourados,MS,205,Calcário Agrícola,Corretivos,2024-10-28,33,45.0
+640,107,Lucas Rocha,Londrina,PR,205,Calcário Agrícola,Corretivos,2024-07-13,9,45.0
+641,107,Lucas Rocha,Patos de Minas,MG,208,Adubo MAP,Fertilizantes,2024-10-17,12,210.0
+642,119,Diego Fonseca,Toledo,PR,206,Sementes de Soja,Sementes,2024-01-31,1,420.0
+643,102,Maria Souza,Ourinhos,SP,201,Adubo NPK 20-05-20,Fertilizantes,2024-10-20,5,120.5
+644,125,André Ribeiro,Ourinhos,SP,206,Sementes de Soja,Sementes,2024-07-16,16,420.0
+645,109,Marcos Vinícius,Uberlândia,MG,202,Sementes de Milho,Sementes,2024-03-10,28,350.0
+646,103,Carlos Pereira,Goioerê,PR,204,Fungicida Triazol,Defensivos,2024-08-20,13,950.0
+647,107,Lucas Rocha,Campo Grande,MS,203,Herbicida Glifosato,Defensivos,2024-05-09,11,780.0
+648,112,Patrícia Nogueira,Cuiabá,MT,202,Sementes de Milho,Sementes,2024-07-31,33,350.0
+649,114,Camila Barros,Rio Verde,GO,202,Sementes de Milho,Sementes,2024-08-11,9,350.0
+650,105,Pedro Lima,Curitiba,PR,203,Herbicida Glifosato,Defensivos,2024-06-06,14,780.0
+651,101,João Silva,Curitiba,PR,208,Adubo MAP,Fertilizantes,2024-07-30,34,210.0
+652,102,Maria Souza,Umuarama,PR,207,Inseticida Sistêmico,Defensivos,2024-04-14,38,680.0
+653,102,Maria Souza,Assis Chateaubriand,PR,205,Calcário Agrícola,Corretivos,2024-09-19,25,45.0
+654,112,Patrícia Nogueira,Curitiba,PR,202,Sementes de Milho,Sementes,2024-07-16,27,350.0
+655,124,Vanessa Pacheco,Uberlândia,MG,204,Fungicida Triazol,Defensivos,2024-02-01,4,950.0
+656,124,Vanessa Pacheco,Campo Grande,MS,207,Inseticida Sistêmico,Defensivos,2024-09-23,32,680.0
+657,107,Lucas Rocha,Rondonópolis,MT,207,Inseticida Sistêmico,Defensivos,2024-02-03,36,680.0
+658,113,Renato Farias,Goioerê,PR,202,Sementes de Milho,Sementes,2024-04-07,9,350.0
+659,112,Patrícia Nogueira,Dourados,MS,203,Herbicida Glifosato,Defensivos,2024-12-10,7,780.0
+660,119,Diego Fonseca,Curitiba,PR,203,Herbicida Glifosato,Defensivos,2024-12-18,10,780.0
+661,115,Eduardo Rangel,Rio Verde,GO,203,Herbicida Glifosato,Defensivos,2024-06-01,5,780.0
+662,121,Felipe Guedes,Curitiba,PR,206,Sementes de Soja,Sementes,2024-01-25,8,420.0
+663,114,Camila Barros,Umuarama,PR,204,Fungicida Triazol,Defensivos,2024-02-14,6,950.0
+664,115,Eduardo Rangel,Curitiba,PR,208,Adubo MAP,Fertilizantes,2024-08-25,22,210.0
+665,102,Maria Souza,Presidente Prudente,SP,204,Fungicida Triazol,Defensivos,2024-03-21,19,950.0
+666,116,Tatiane Lopes,Londrina,PR,204,Fungicida Triazol,Defensivos,2024-11-15,3,950.0
+667,109,Marcos Vinícius,Londrina,PR,208,Adubo MAP,Fertilizantes,2024-09-12,24,210.0
+668,118,Aline Moreira,Toledo,PR,205,Calcário Agrícola,Corretivos,2024-04-12,26,45.0
+669,113,Renato Farias,Rondonópolis,MT,207,Inseticida Sistêmico,Defensivos,2024-03-31,17,680.0
+670,121,Felipe Guedes,Campo Grande,MS,202,Sementes de Milho,Sementes,2024-07-23,8,350.0
+671,123,Rodrigo Mello,Piracicaba,SP,208,Adubo MAP,Fertilizantes,2024-09-17,5,210.0
+672,108,Fernanda Alves,Campo Grande,MS,206,Sementes de Soja,Sementes,2024-07-22,26,420.0
+673,124,Vanessa Pacheco,Londrina,PR,203,Herbicida Glifosato,Defensivos,2024-07-21,33,780.0
+674,120,Larissa Cunha,Jataí,GO,206,Sementes de Soja,Sementes,2024-08-10,24,420.0
+675,104,Ana Martins,Patos de Minas,MG,205,Calcário Agrícola,Corretivos,2024-08-06,25,45.0
+676,112,Patrícia Nogueira,Uberlândia,MG,204,Fungicida Triazol,Defensivos,2024-12-07,30,950.0
+677,117,Gustavo Azevedo,Umuarama,PR,202,Sementes de Milho,Sementes,2024-03-21,29,350.0
+678,112,Patrícia Nogueira,Ribeirão Preto,SP,202,Sementes de Milho,Sementes,2024-06-20,12,350.0
+679,102,Maria Souza,Uberlândia,MG,205,Calcário Agrícola,Corretivos,2024-01-24,4,45.0
+680,105,Pedro Lima,Umuarama,PR,206,Sementes de Soja,Sementes,2024-05-16,40,420.0
+681,120,Larissa Cunha,Presidente Prudente,SP,207,Inseticida Sistêmico,Defensivos,2024-12-30,17,680.0
+682,121,Felipe Guedes,Maringá,PR,206,Sementes de Soja,Sementes,2024-12-19,6,420.0
+683,104,Ana Martins,Curitiba,PR,206,Sementes de Soja,Sementes,2024-02-17,5,420.0
+684,101,João Silva,Ribeirão Preto,SP,207,Inseticida Sistêmico,Defensivos,2024-04-16,4,680.0
+685,124,Vanessa Pacheco,Presidente Prudente,SP,206,Sementes de Soja,Sementes,2024-10-12,7,420.0
+686,117,Gustavo Azevedo,Cuiabá,MT,208,Adubo MAP,Fertilizantes,2024-08-01,10,210.0
+687,107,Lucas Rocha,Londrina,PR,202,Sementes de Milho,Sementes,2024-03-13,23,350.0
+688,115,Eduardo Rangel,Ourinhos,SP,208,Adubo MAP,Fertilizantes,2024-03-26,30,210.0
+689,123,Rodrigo Mello,Maringá,PR,206,Sementes de Soja,Sementes,2024-04-04,3,420.0
+690,101,João Silva,Uberlândia,MG,204,Fungicida Triazol,Defensivos,2024-10-16,39,950.0
+691,104,Ana Martins,Ribeirão Preto,SP,206,Sementes de Soja,Sementes,2024-09-14,3,420.0
+692,121,Felipe Guedes,Campo Grande,MS,207,Inseticida Sistêmico,Defensivos,2024-02-17,17,680.0
+693,112,Patrícia Nogueira,Rondonópolis,MT,207,Inseticida Sistêmico,Defensivos,2024-11-18,11,680.0
+694,113,Renato Farias,Curitiba,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-04-13,22,120.5
+695,113,Renato Farias,Cascavel,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-01-24,34,120.5
+696,109,Marcos Vinícius,Londrina,PR,207,Inseticida Sistêmico,Defensivos,2024-09-21,31,680.0
+697,114,Camila Barros,Umuarama,PR,205,Calcário Agrícola,Corretivos,2024-02-25,29,45.0
+698,117,Gustavo Azevedo,Toledo,PR,206,Sementes de Soja,Sementes,2024-08-01,30,420.0
+699,110,Juliana Pires,Rondonópolis,MT,201,Adubo NPK 20-05-20,Fertilizantes,2024-09-09,20,120.5
+700,120,Larissa Cunha,Ourinhos,SP,202,Sementes de Milho,Sementes,2024-06-09,37,350.0
+701,117,Gustavo Azevedo,Rondonópolis,MT,203,Herbicida Glifosato,Defensivos,2024-12-31,14,780.0
+702,101,João Silva,Piracicaba,SP,206,Sementes de Soja,Sementes,2024-12-29,15,420.0
+703,125,André Ribeiro,Cascavel,PR,203,Herbicida Glifosato,Defensivos,2024-01-10,40,780.0
+704,117,Gustavo Azevedo,Curitiba,PR,207,Inseticida Sistêmico,Defensivos,2024-03-05,21,680.0
+705,119,Diego Fonseca,Londrina,PR,208,Adubo MAP,Fertilizantes,2024-08-30,31,210.0
+706,107,Lucas Rocha,Ourinhos,SP,201,Adubo NPK 20-05-20,Fertilizantes,2024-09-27,18,120.5
+707,117,Gustavo Azevedo,Goioerê,PR,204,Fungicida Triazol,Defensivos,2024-07-15,2,950.0
+708,108,Fernanda Alves,Uberlândia,MG,207,Inseticida Sistêmico,Defensivos,2024-01-06,14,680.0
+709,118,Aline Moreira,Patos de Minas,MG,207,Inseticida Sistêmico,Defensivos,2024-10-24,38,680.0
+710,124,Vanessa Pacheco,Cascavel,PR,208,Adubo MAP,Fertilizantes,2024-02-25,37,210.0
+711,102,Maria Souza,Campo Grande,MS,207,Inseticida Sistêmico,Defensivos,2024-02-10,9,680.0
+712,103,Carlos Pereira,Rondonópolis,MT,205,Calcário Agrícola,Corretivos,2024-03-08,40,45.0
+713,107,Lucas Rocha,Londrina,PR,203,Herbicida Glifosato,Defensivos,2024-01-15,4,780.0
+714,115,Eduardo Rangel,Rio Verde,GO,203,Herbicida Glifosato,Defensivos,2024-12-29,19,780.0
+715,123,Rodrigo Mello,Cuiabá,MT,202,Sementes de Milho,Sementes,2024-08-01,9,350.0
+716,116,Tatiane Lopes,Ribeirão Preto,SP,201,Adubo NPK 20-05-20,Fertilizantes,2024-01-09,26,120.5
+717,106,Rafael Costa,Campo Grande,MS,206,Sementes de Soja,Sementes,2024-11-29,35,420.0
+718,118,Aline Moreira,Campo Grande,MS,208,Adubo MAP,Fertilizantes,2024-04-04,17,210.0
+719,117,Gustavo Azevedo,Jataí,GO,202,Sementes de Milho,Sementes,2024-09-25,4,350.0
+720,109,Marcos Vinícius,Londrina,PR,207,Inseticida Sistêmico,Defensivos,2024-08-22,35,680.0
+721,112,Patrícia Nogueira,Dourados,MS,204,Fungicida Triazol,Defensivos,2024-04-05,15,950.0
+722,101,João Silva,Umuarama,PR,204,Fungicida Triazol,Defensivos,2024-06-30,31,950.0
+723,123,Rodrigo Mello,Assis Chateaubriand,PR,203,Herbicida Glifosato,Defensivos,2024-06-03,30,780.0
+724,119,Diego Fonseca,Presidente Prudente,SP,205,Calcário Agrícola,Corretivos,2024-12-14,25,45.0
+725,120,Larissa Cunha,Ourinhos,SP,204,Fungicida Triazol,Defensivos,2024-08-10,13,950.0
+726,109,Marcos Vinícius,Presidente Prudente,SP,202,Sementes de Milho,Sementes,2024-06-04,4,350.0
+727,106,Rafael Costa,Rondonópolis,MT,206,Sementes de Soja,Sementes,2024-04-30,38,420.0
+728,119,Diego Fonseca,Goioerê,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-05-27,6,120.5
+729,120,Larissa Cunha,Presidente Prudente,SP,205,Calcário Agrícola,Corretivos,2024-03-14,6,45.0
+730,104,Ana Martins,Toledo,PR,206,Sementes de Soja,Sementes,2024-09-06,15,420.0
+731,120,Larissa Cunha,Patos de Minas,MG,206,Sementes de Soja,Sementes,2024-04-05,32,420.0
+732,110,Juliana Pires,Campo Grande,MS,206,Sementes de Soja,Sementes,2024-03-21,6,420.0
+733,109,Marcos Vinícius,Presidente Prudente,SP,206,Sementes de Soja,Sementes,2024-07-14,36,420.0
+734,112,Patrícia Nogueira,Presidente Prudente,SP,205,Calcário Agrícola,Corretivos,2024-06-27,16,45.0
+735,102,Maria Souza,Ourinhos,SP,205,Calcário Agrícola,Corretivos,2024-10-09,21,45.0
+736,108,Fernanda Alves,Ribeirão Preto,SP,208,Adubo MAP,Fertilizantes,2024-08-28,39,210.0
+737,121,Felipe Guedes,Assis Chateaubriand,PR,202,Sementes de Milho,Sementes,2024-06-25,35,350.0
+738,105,Pedro Lima,Uberlândia,MG,206,Sementes de Soja,Sementes,2024-05-31,4,420.0
+739,104,Ana Martins,Ourinhos,SP,208,Adubo MAP,Fertilizantes,2024-05-12,25,210.0
+740,108,Fernanda Alves,Ribeirão Preto,SP,204,Fungicida Triazol,Defensivos,2024-03-01,27,950.0
+741,102,Maria Souza,Cuiabá,MT,207,Inseticida Sistêmico,Defensivos,2024-04-04,7,680.0
+742,117,Gustavo Azevedo,Presidente Prudente,SP,204,Fungicida Triazol,Defensivos,2024-10-23,28,950.0
+743,117,Gustavo Azevedo,Presidente Prudente,SP,206,Sementes de Soja,Sementes,2024-01-06,28,420.0
+744,120,Larissa Cunha,Maringá,PR,208,Adubo MAP,Fertilizantes,2024-09-17,2,210.0
+745,111,Bruno Teixeira,Rondonópolis,MT,208,Adubo MAP,Fertilizantes,2024-05-24,39,210.0
+746,105,Pedro Lima,Londrina,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-09-19,37,120.5
+747,120,Larissa Cunha,Rondonópolis,MT,207,Inseticida Sistêmico,Defensivos,2024-03-05,36,680.0
+748,125,André Ribeiro,Rio Verde,GO,203,Herbicida Glifosato,Defensivos,2024-04-23,12,780.0
+749,101,João Silva,Maringá,PR,203,Herbicida Glifosato,Defensivos,2024-12-17,26,780.0
+750,113,Renato Farias,Jataí,GO,203,Herbicida Glifosato,Defensivos,2024-06-18,17,780.0
+751,110,Juliana Pires,Ourinhos,SP,205,Calcário Agrícola,Corretivos,2024-08-14,19,45.0
+752,102,Maria Souza,Londrina,PR,204,Fungicida Triazol,Defensivos,2024-03-18,8,950.0
+753,123,Rodrigo Mello,Cuiabá,MT,207,Inseticida Sistêmico,Defensivos,2024-08-23,34,680.0
+754,110,Juliana Pires,Dourados,MS,205,Calcário Agrícola,Corretivos,2024-05-12,5,45.0
+755,117,Gustavo Azevedo,Goioerê,PR,208,Adubo MAP,Fertilizantes,2024-10-22,7,210.0
+756,106,Rafael Costa,Goioerê,PR,206,Sementes de Soja,Sementes,2024-11-06,16,420.0
+757,112,Patrícia Nogueira,Cascavel,PR,206,Sementes de Soja,Sementes,2024-09-06,5,420.0
+758,107,Lucas Rocha,Umuarama,PR,206,Sementes de Soja,Sementes,2024-06-08,9,420.0
+759,120,Larissa Cunha,Rondonópolis,MT,208,Adubo MAP,Fertilizantes,2024-07-22,13,210.0
+760,117,Gustavo Azevedo,Ourinhos,SP,203,Herbicida Glifosato,Defensivos,2024-12-11,11,780.0
+761,110,Juliana Pires,Ourinhos,SP,205,Calcário Agrícola,Corretivos,2024-03-31,31,45.0
+762,123,Rodrigo Mello,Umuarama,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-01-23,19,120.5
+763,124,Vanessa Pacheco,Ribeirão Preto,SP,204,Fungicida Triazol,Defensivos,2024-05-15,14,950.0
+764,124,Vanessa Pacheco,Uberlândia,MG,201,Adubo NPK 20-05-20,Fertilizantes,2024-08-22,32,120.5
+765,101,João Silva,Dourados,MS,201,Adubo NPK 20-05-20,Fertilizantes,2024-11-13,40,120.5
+766,108,Fernanda Alves,Curitiba,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-12-02,9,120.5
+767,103,Carlos Pereira,Assis Chateaubriand,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-01-06,29,120.5
+768,105,Pedro Lima,Dourados,MS,207,Inseticida Sistêmico,Defensivos,2024-04-11,28,680.0
+769,103,Carlos Pereira,Piracicaba,SP,204,Fungicida Triazol,Defensivos,2024-06-22,13,950.0
+770,124,Vanessa Pacheco,Assis Chateaubriand,PR,202,Sementes de Milho,Sementes,2024-02-12,21,350.0
+771,102,Maria Souza,Cascavel,PR,206,Sementes de Soja,Sementes,2024-08-18,13,420.0
+772,112,Patrícia Nogueira,Ourinhos,SP,201,Adubo NPK 20-05-20,Fertilizantes,2024-05-29,10,120.5
+773,124,Vanessa Pacheco,Rio Verde,GO,208,Adubo MAP,Fertilizantes,2024-04-18,37,210.0
+774,112,Patrícia Nogueira,Goioerê,PR,205,Calcário Agrícola,Corretivos,2024-01-25,26,45.0
+775,115,Eduardo Rangel,Goioerê,PR,205,Calcário Agrícola,Corretivos,2024-09-24,11,45.0
+776,122,Simone Araújo,Curitiba,PR,203,Herbicida Glifosato,Defensivos,2024-02-05,21,780.0
+777,107,Lucas Rocha,Assis Chateaubriand,PR,205,Calcário Agrícola,Corretivos,2024-05-13,31,45.0
+778,119,Diego Fonseca,Ourinhos,SP,205,Calcário Agrícola,Corretivos,2024-08-15,33,45.0
+779,117,Gustavo Azevedo,Presidente Prudente,SP,201,Adubo NPK 20-05-20,Fertilizantes,2024-04-13,23,120.5
+780,107,Lucas Rocha,Presidente Prudente,SP,208,Adubo MAP,Fertilizantes,2024-10-25,30,210.0
+781,115,Eduardo Rangel,Maringá,PR,203,Herbicida Glifosato,Defensivos,2024-02-10,25,780.0
+782,120,Larissa Cunha,Goioerê,PR,208,Adubo MAP,Fertilizantes,2024-10-07,13,210.0
+783,105,Pedro Lima,Umuarama,PR,204,Fungicida Triazol,Defensivos,2024-09-05,6,950.0
+784,107,Lucas Rocha,Rio Verde,GO,203,Herbicida Glifosato,Defensivos,2024-07-20,29,780.0
+785,113,Renato Farias,Patos de Minas,MG,208,Adubo MAP,Fertilizantes,2024-03-20,39,210.0
+786,102,Maria Souza,Dourados,MS,203,Herbicida Glifosato,Defensivos,2024-06-12,32,780.0
+787,111,Bruno Teixeira,Campo Grande,MS,206,Sementes de Soja,Sementes,2024-05-31,38,420.0
+788,120,Larissa Cunha,Campo Grande,MS,208,Adubo MAP,Fertilizantes,2024-11-09,2,210.0
+789,115,Eduardo Rangel,Dourados,MS,203,Herbicida Glifosato,Defensivos,2024-07-30,23,780.0
+790,122,Simone Araújo,Ourinhos,SP,208,Adubo MAP,Fertilizantes,2024-09-18,20,210.0
+791,111,Bruno Teixeira,Rondonópolis,MT,206,Sementes de Soja,Sementes,2024-03-15,18,420.0
+792,101,João Silva,Campo Grande,MS,203,Herbicida Glifosato,Defensivos,2024-02-09,29,780.0
+793,122,Simone Araújo,Cuiabá,MT,203,Herbicida Glifosato,Defensivos,2024-06-05,36,780.0
+794,107,Lucas Rocha,Cascavel,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-09-22,16,120.5
+795,106,Rafael Costa,Ourinhos,SP,208,Adubo MAP,Fertilizantes,2024-10-20,13,210.0
+796,111,Bruno Teixeira,Ribeirão Preto,SP,201,Adubo NPK 20-05-20,Fertilizantes,2024-08-03,24,120.5
+797,116,Tatiane Lopes,Ribeirão Preto,SP,202,Sementes de Milho,Sementes,2024-01-30,32,350.0
+798,102,Maria Souza,Presidente Prudente,SP,206,Sementes de Soja,Sementes,2024-10-07,2,420.0
+799,116,Tatiane Lopes,Dourados,MS,207,Inseticida Sistêmico,Defensivos,2024-11-19,6,680.0
+800,104,Ana Martins,Campo Grande,MS,203,Herbicida Glifosato,Defensivos,2024-05-09,21,780.0
+801,110,Juliana Pires,Toledo,PR,208,Adubo MAP,Fertilizantes,2024-04-13,21,210.0
+802,121,Felipe Guedes,Presidente Prudente,SP,202,Sementes de Milho,Sementes,2024-03-18,31,350.0
+803,117,Gustavo Azevedo,Londrina,PR,203,Herbicida Glifosato,Defensivos,2024-03-18,14,780.0
+804,114,Camila Barros,Cuiabá,MT,208,Adubo MAP,Fertilizantes,2024-11-30,24,210.0
+805,122,Simone Araújo,Ribeirão Preto,SP,201,Adubo NPK 20-05-20,Fertilizantes,2024-03-28,35,120.5
+806,108,Fernanda Alves,Piracicaba,SP,206,Sementes de Soja,Sementes,2024-03-26,7,420.0
+807,117,Gustavo Azevedo,Curitiba,PR,208,Adubo MAP,Fertilizantes,2024-12-15,14,210.0
+808,103,Carlos Pereira,Ourinhos,SP,208,Adubo MAP,Fertilizantes,2024-03-20,21,210.0
+809,110,Juliana Pires,Goioerê,PR,203,Herbicida Glifosato,Defensivos,2024-06-01,39,780.0
+810,120,Larissa Cunha,Ribeirão Preto,SP,205,Calcário Agrícola,Corretivos,2024-04-22,31,45.0
+811,103,Carlos Pereira,Presidente Prudente,SP,206,Sementes de Soja,Sementes,2024-09-25,27,420.0
+812,104,Ana Martins,Cuiabá,MT,201,Adubo NPK 20-05-20,Fertilizantes,2024-10-20,24,120.5
+813,110,Juliana Pires,Goioerê,PR,207,Inseticida Sistêmico,Defensivos,2024-12-25,10,680.0
+814,110,Juliana Pires,Maringá,PR,202,Sementes de Milho,Sementes,2024-10-22,20,350.0
+815,114,Camila Barros,Patos de Minas,MG,203,Herbicida Glifosato,Defensivos,2024-12-28,40,780.0
+816,103,Carlos Pereira,Umuarama,PR,203,Herbicida Glifosato,Defensivos,2024-12-14,6,780.0
+817,107,Lucas Rocha,Jataí,GO,201,Adubo NPK 20-05-20,Fertilizantes,2024-05-23,9,120.5
+818,118,Aline Moreira,Cascavel,PR,202,Sementes de Milho,Sementes,2024-01-13,11,350.0
+819,117,Gustavo Azevedo,Dourados,MS,207,Inseticida Sistêmico,Defensivos,2024-06-23,5,680.0
+820,117,Gustavo Azevedo,Goioerê,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-02-04,23,120.5
+821,124,Vanessa Pacheco,Cascavel,PR,202,Sementes de Milho,Sementes,2024-09-08,4,350.0
+822,114,Camila Barros,Campo Grande,MS,203,Herbicida Glifosato,Defensivos,2024-01-15,37,780.0
+823,102,Maria Souza,Cascavel,PR,203,Herbicida Glifosato,Defensivos,2024-02-11,15,780.0
+824,114,Camila Barros,Umuarama,PR,206,Sementes de Soja,Sementes,2024-06-17,20,420.0
+825,119,Diego Fonseca,Rio Verde,GO,204,Fungicida Triazol,Defensivos,2024-05-07,1,950.0
+826,113,Renato Farias,Rio Verde,GO,203,Herbicida Glifosato,Defensivos,2024-10-19,1,780.0
+827,111,Bruno Teixeira,Presidente Prudente,SP,202,Sementes de Milho,Sementes,2024-11-04,1,350.0
+828,101,João Silva,Presidente Prudente,SP,205,Calcário Agrícola,Corretivos,2024-10-20,21,45.0
+829,113,Renato Farias,Rondonópolis,MT,202,Sementes de Milho,Sementes,2024-08-22,9,350.0
+830,107,Lucas Rocha,Assis Chateaubriand,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-09-02,5,120.5
+831,109,Marcos Vinícius,Presidente Prudente,SP,207,Inseticida Sistêmico,Defensivos,2024-06-26,13,680.0
+832,104,Ana Martins,Patos de Minas,MG,206,Sementes de Soja,Sementes,2024-03-02,9,420.0
+833,101,João Silva,Toledo,PR,207,Inseticida Sistêmico,Defensivos,2024-06-17,20,680.0
+834,122,Simone Araújo,Umuarama,PR,206,Sementes de Soja,Sementes,2024-11-17,10,420.0
+835,124,Vanessa Pacheco,Uberlândia,MG,204,Fungicida Triazol,Defensivos,2024-07-24,10,950.0
+836,109,Marcos Vinícius,Jataí,GO,202,Sementes de Milho,Sementes,2024-11-11,29,350.0
+837,125,André Ribeiro,Ourinhos,SP,204,Fungicida Triazol,Defensivos,2024-07-26,32,950.0
+838,105,Pedro Lima,Patos de Minas,MG,207,Inseticida Sistêmico,Defensivos,2024-07-28,28,680.0
+839,108,Fernanda Alves,Presidente Prudente,SP,204,Fungicida Triazol,Defensivos,2024-09-23,10,950.0
+840,108,Fernanda Alves,Dourados,MS,204,Fungicida Triazol,Defensivos,2024-10-17,8,950.0
+841,107,Lucas Rocha,Ribeirão Preto,SP,203,Herbicida Glifosato,Defensivos,2024-12-08,34,780.0
+842,103,Carlos Pereira,Rondonópolis,MT,205,Calcário Agrícola,Corretivos,2024-08-01,30,45.0
+843,122,Simone Araújo,Assis Chateaubriand,PR,204,Fungicida Triazol,Defensivos,2024-02-23,9,950.0
+844,109,Marcos Vinícius,Rio Verde,GO,206,Sementes de Soja,Sementes,2024-03-05,13,420.0
+845,117,Gustavo Azevedo,Maringá,PR,202,Sementes de Milho,Sementes,2024-08-06,31,350.0
+846,103,Carlos Pereira,Jataí,GO,208,Adubo MAP,Fertilizantes,2024-12-19,34,210.0
+847,110,Juliana Pires,Maringá,PR,203,Herbicida Glifosato,Defensivos,2024-11-02,16,780.0
+848,124,Vanessa Pacheco,Cuiabá,MT,207,Inseticida Sistêmico,Defensivos,2024-12-07,39,680.0
+849,109,Marcos Vinícius,Londrina,PR,204,Fungicida Triazol,Defensivos,2024-09-02,28,950.0
+850,114,Camila Barros,Assis Chateaubriand,PR,205,Calcário Agrícola,Corretivos,2024-06-16,40,45.0
+851,122,Simone Araújo,Ourinhos,SP,201,Adubo NPK 20-05-20,Fertilizantes,2024-09-19,28,120.5
+852,105,Pedro Lima,Toledo,PR,203,Herbicida Glifosato,Defensivos,2024-11-27,4,780.0
+853,101,João Silva,Assis Chateaubriand,PR,205,Calcário Agrícola,Corretivos,2024-06-07,16,45.0
+854,103,Carlos Pereira,Cascavel,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-11-11,37,120.5
+855,109,Marcos Vinícius,Rio Verde,GO,202,Sementes de Milho,Sementes,2024-08-16,20,350.0
+856,111,Bruno Teixeira,Uberlândia,MG,207,Inseticida Sistêmico,Defensivos,2024-08-20,39,680.0
+857,119,Diego Fonseca,Dourados,MS,203,Herbicida Glifosato,Defensivos,2024-03-25,4,780.0
+858,122,Simone Araújo,Assis Chateaubriand,PR,208,Adubo MAP,Fertilizantes,2024-01-20,8,210.0
+859,116,Tatiane Lopes,Jataí,GO,204,Fungicida Triazol,Defensivos,2024-05-24,3,950.0
+860,118,Aline Moreira,Assis Chateaubriand,PR,208,Adubo MAP,Fertilizantes,2024-11-22,6,210.0
+861,113,Renato Farias,Presidente Prudente,SP,208,Adubo MAP,Fertilizantes,2024-07-23,4,210.0
+862,104,Ana Martins,Presidente Prudente,SP,206,Sementes de Soja,Sementes,2024-07-19,37,420.0
+863,118,Aline Moreira,Cascavel,PR,203,Herbicida Glifosato,Defensivos,2024-12-29,4,780.0
+864,123,Rodrigo Mello,Uberlândia,MG,202,Sementes de Milho,Sementes,2024-05-13,8,350.0
+865,113,Renato Farias,Goioerê,PR,204,Fungicida Triazol,Defensivos,2024-09-13,11,950.0
+866,103,Carlos Pereira,Umuarama,PR,205,Calcário Agrícola,Corretivos,2024-11-16,39,45.0
+867,113,Renato Farias,Patos de Minas,MG,207,Inseticida Sistêmico,Defensivos,2024-07-09,18,680.0
+868,111,Bruno Teixeira,Rondonópolis,MT,206,Sementes de Soja,Sementes,2024-07-28,21,420.0
+869,110,Juliana Pires,Jataí,GO,202,Sementes de Milho,Sementes,2024-10-13,21,350.0
+870,125,André Ribeiro,Dourados,MS,202,Sementes de Milho,Sementes,2024-09-30,35,350.0
+871,107,Lucas Rocha,Jataí,GO,201,Adubo NPK 20-05-20,Fertilizantes,2024-08-08,40,120.5
+872,118,Aline Moreira,Uberlândia,MG,208,Adubo MAP,Fertilizantes,2024-11-18,33,210.0
+873,112,Patrícia Nogueira,Curitiba,PR,202,Sementes de Milho,Sementes,2024-05-07,24,350.0
+874,113,Renato Farias,Assis Chateaubriand,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-01-26,27,120.5
+875,125,André Ribeiro,Maringá,PR,208,Adubo MAP,Fertilizantes,2024-11-08,11,210.0
+876,113,Renato Farias,Campo Grande,MS,208,Adubo MAP,Fertilizantes,2024-01-25,1,210.0
+877,109,Marcos Vinícius,Cuiabá,MT,207,Inseticida Sistêmico,Defensivos,2024-05-28,19,680.0
+878,116,Tatiane Lopes,Cuiabá,MT,201,Adubo NPK 20-05-20,Fertilizantes,2024-11-08,29,120.5
+879,114,Camila Barros,Ribeirão Preto,SP,207,Inseticida Sistêmico,Defensivos,2024-04-25,10,680.0
+880,120,Larissa Cunha,Curitiba,PR,205,Calcário Agrícola,Corretivos,2024-01-05,18,45.0
+881,125,André Ribeiro,Ourinhos,SP,206,Sementes de Soja,Sementes,2024-01-02,3,420.0
+882,108,Fernanda Alves,Cuiabá,MT,207,Inseticida Sistêmico,Defensivos,2024-03-07,11,680.0
+883,119,Diego Fonseca,Ribeirão Preto,SP,206,Sementes de Soja,Sementes,2024-04-18,39,420.0
+884,122,Simone Araújo,Presidente Prudente,SP,206,Sementes de Soja,Sementes,2024-11-19,31,420.0
+885,115,Eduardo Rangel,Ribeirão Preto,SP,201,Adubo NPK 20-05-20,Fertilizantes,2024-03-17,26,120.5
+886,101,João Silva,Ribeirão Preto,SP,207,Inseticida Sistêmico,Defensivos,2024-05-28,1,680.0
+887,105,Pedro Lima,Presidente Prudente,SP,202,Sementes de Milho,Sementes,2024-04-27,22,350.0
+888,109,Marcos Vinícius,Curitiba,PR,205,Calcário Agrícola,Corretivos,2024-10-27,5,45.0
+889,108,Fernanda Alves,Cascavel,PR,206,Sementes de Soja,Sementes,2024-11-03,13,420.0
+890,101,João Silva,Rio Verde,GO,205,Calcário Agrícola,Corretivos,2024-01-08,14,45.0
+891,114,Camila Barros,Campo Grande,MS,204,Fungicida Triazol,Defensivos,2024-01-04,8,950.0
+892,106,Rafael Costa,Londrina,PR,204,Fungicida Triazol,Defensivos,2024-09-30,30,950.0
+893,121,Felipe Guedes,Dourados,MS,205,Calcário Agrícola,Corretivos,2024-08-22,30,45.0
+894,104,Ana Martins,Uberlândia,MG,208,Adubo MAP,Fertilizantes,2024-11-05,29,210.0
+895,107,Lucas Rocha,Ribeirão Preto,SP,204,Fungicida Triazol,Defensivos,2024-12-03,26,950.0
+896,113,Renato Farias,Assis Chateaubriand,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-06-26,11,120.5
+897,119,Diego Fonseca,Toledo,PR,207,Inseticida Sistêmico,Defensivos,2024-02-22,30,680.0
+898,110,Juliana Pires,Ribeirão Preto,SP,207,Inseticida Sistêmico,Defensivos,2024-11-04,32,680.0
+899,110,Juliana Pires,Rio Verde,GO,205,Calcário Agrícola,Corretivos,2024-01-10,18,45.0
+900,118,Aline Moreira,Ribeirão Preto,SP,203,Herbicida Glifosato,Defensivos,2024-07-19,18,780.0
+901,117,Gustavo Azevedo,Assis Chateaubriand,PR,202,Sementes de Milho,Sementes,2024-06-30,38,350.0
+902,108,Fernanda Alves,Cascavel,PR,205,Calcário Agrícola,Corretivos,2024-07-28,4,45.0
+903,121,Felipe Guedes,Umuarama,PR,207,Inseticida Sistêmico,Defensivos,2024-01-26,20,680.0
+904,110,Juliana Pires,Rio Verde,GO,202,Sementes de Milho,Sementes,2024-02-07,35,350.0
+905,120,Larissa Cunha,Campo Grande,MS,208,Adubo MAP,Fertilizantes,2024-01-21,28,210.0
+906,101,João Silva,Jataí,GO,204,Fungicida Triazol,Defensivos,2024-08-03,14,950.0
+907,117,Gustavo Azevedo,Assis Chateaubriand,PR,203,Herbicida Glifosato,Defensivos,2024-08-03,36,780.0
+908,125,André Ribeiro,Assis Chateaubriand,PR,207,Inseticida Sistêmico,Defensivos,2024-01-09,28,680.0
+909,105,Pedro Lima,Patos de Minas,MG,201,Adubo NPK 20-05-20,Fertilizantes,2024-04-23,36,120.5
+910,119,Diego Fonseca,Ribeirão Preto,SP,203,Herbicida Glifosato,Defensivos,2024-11-15,2,780.0
+911,124,Vanessa Pacheco,Rio Verde,GO,204,Fungicida Triazol,Defensivos,2024-11-26,25,950.0
+912,113,Renato Farias,Goioerê,PR,204,Fungicida Triazol,Defensivos,2024-04-01,2,950.0
+913,114,Camila Barros,Londrina,PR,207,Inseticida Sistêmico,Defensivos,2024-06-09,20,680.0
+914,110,Juliana Pires,Ribeirão Preto,SP,201,Adubo NPK 20-05-20,Fertilizantes,2024-07-03,21,120.5
+915,110,Juliana Pires,Presidente Prudente,SP,204,Fungicida Triazol,Defensivos,2024-11-22,39,950.0
+916,119,Diego Fonseca,Londrina,PR,203,Herbicida Glifosato,Defensivos,2024-11-05,26,780.0
+917,110,Juliana Pires,Ourinhos,SP,206,Sementes de Soja,Sementes,2024-04-10,35,420.0
+918,104,Ana Martins,Rondonópolis,MT,207,Inseticida Sistêmico,Defensivos,2024-09-11,9,680.0
+919,115,Eduardo Rangel,Goioerê,PR,203,Herbicida Glifosato,Defensivos,2024-09-06,27,780.0
+920,119,Diego Fonseca,Rio Verde,GO,201,Adubo NPK 20-05-20,Fertilizantes,2024-04-20,19,120.5
+921,115,Eduardo Rangel,Curitiba,PR,205,Calcário Agrícola,Corretivos,2024-09-23,24,45.0
+922,110,Juliana Pires,Uberlândia,MG,202,Sementes de Milho,Sementes,2024-07-27,35,350.0
+923,114,Camila Barros,Cuiabá,MT,205,Calcário Agrícola,Corretivos,2024-05-21,27,45.0
+924,122,Simone Araújo,Patos de Minas,MG,201,Adubo NPK 20-05-20,Fertilizantes,2024-08-01,38,120.5
+925,122,Simone Araújo,Londrina,PR,205,Calcário Agrícola,Corretivos,2024-02-08,8,45.0
+926,109,Marcos Vinícius,Toledo,PR,207,Inseticida Sistêmico,Defensivos,2024-09-16,31,680.0
+927,114,Camila Barros,Toledo,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-08-08,11,120.5
+928,122,Simone Araújo,Jataí,GO,208,Adubo MAP,Fertilizantes,2024-02-22,5,210.0
+929,114,Camila Barros,Cascavel,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-07-26,17,120.5
+930,109,Marcos Vinícius,Curitiba,PR,208,Adubo MAP,Fertilizantes,2024-08-04,25,210.0
+931,121,Felipe Guedes,Dourados,MS,201,Adubo NPK 20-05-20,Fertilizantes,2024-08-10,39,120.5
+932,122,Simone Araújo,Dourados,MS,205,Calcário Agrícola,Corretivos,2024-10-25,38,45.0
+933,123,Rodrigo Mello,Presidente Prudente,SP,202,Sementes de Milho,Sementes,2024-08-20,30,350.0
+934,106,Rafael Costa,Jataí,GO,207,Inseticida Sistêmico,Defensivos,2024-12-19,8,680.0
+935,103,Carlos Pereira,Rondonópolis,MT,208,Adubo MAP,Fertilizantes,2024-04-23,5,210.0
+936,120,Larissa Cunha,Toledo,PR,203,Herbicida Glifosato,Defensivos,2024-09-05,4,780.0
+937,122,Simone Araújo,Ribeirão Preto,SP,205,Calcário Agrícola,Corretivos,2024-09-02,1,45.0
+938,102,Maria Souza,Presidente Prudente,SP,201,Adubo NPK 20-05-20,Fertilizantes,2024-08-10,10,120.5
+939,104,Ana Martins,Cascavel,PR,206,Sementes de Soja,Sementes,2024-07-08,10,420.0
+940,106,Rafael Costa,Uberlândia,MG,204,Fungicida Triazol,Defensivos,2024-01-29,11,950.0
+941,105,Pedro Lima,Curitiba,PR,205,Calcário Agrícola,Corretivos,2024-02-10,32,45.0
+942,113,Renato Farias,Curitiba,PR,207,Inseticida Sistêmico,Defensivos,2024-06-06,19,680.0
+943,120,Larissa Cunha,Rio Verde,GO,208,Adubo MAP,Fertilizantes,2024-12-02,30,210.0
+944,116,Tatiane Lopes,Patos de Minas,MG,206,Sementes de Soja,Sementes,2024-04-03,34,420.0
+945,103,Carlos Pereira,Assis Chateaubriand,PR,207,Inseticida Sistêmico,Defensivos,2024-01-18,17,680.0
+946,106,Rafael Costa,Maringá,PR,208,Adubo MAP,Fertilizantes,2024-03-01,9,210.0
+947,116,Tatiane Lopes,Ourinhos,SP,208,Adubo MAP,Fertilizantes,2024-09-14,31,210.0
+948,114,Camila Barros,Rondonópolis,MT,207,Inseticida Sistêmico,Defensivos,2024-02-26,9,680.0
+949,122,Simone Araújo,Ourinhos,SP,201,Adubo NPK 20-05-20,Fertilizantes,2024-12-06,28,120.5
+950,106,Rafael Costa,Campo Grande,MS,201,Adubo NPK 20-05-20,Fertilizantes,2024-01-29,31,120.5
+951,124,Vanessa Pacheco,Presidente Prudente,SP,205,Calcário Agrícola,Corretivos,2024-10-26,39,45.0
+952,125,André Ribeiro,Presidente Prudente,SP,202,Sementes de Milho,Sementes,2024-02-19,24,350.0
+953,120,Larissa Cunha,Ourinhos,SP,202,Sementes de Milho,Sementes,2024-12-06,12,350.0
+954,110,Juliana Pires,Umuarama,PR,202,Sementes de Milho,Sementes,2024-12-26,6,350.0
+955,105,Pedro Lima,Jataí,GO,206,Sementes de Soja,Sementes,2024-06-04,3,420.0
+956,125,André Ribeiro,Ribeirão Preto,SP,205,Calcário Agrícola,Corretivos,2024-05-09,38,45.0
+957,119,Diego Fonseca,Presidente Prudente,SP,206,Sementes de Soja,Sementes,2024-05-03,24,420.0
+958,103,Carlos Pereira,Campo Grande,MS,204,Fungicida Triazol,Defensivos,2024-10-14,12,950.0
+959,107,Lucas Rocha,Cuiabá,MT,201,Adubo NPK 20-05-20,Fertilizantes,2024-10-14,21,120.5
+960,119,Diego Fonseca,Ribeirão Preto,SP,206,Sementes de Soja,Sementes,2024-12-07,17,420.0
+961,109,Marcos Vinícius,Rondonópolis,MT,204,Fungicida Triazol,Defensivos,2024-08-03,37,950.0
+962,122,Simone Araújo,Rio Verde,GO,205,Calcário Agrícola,Corretivos,2024-01-26,7,45.0
+963,124,Vanessa Pacheco,Jataí,GO,203,Herbicida Glifosato,Defensivos,2024-07-25,27,780.0
+964,104,Ana Martins,Assis Chateaubriand,PR,208,Adubo MAP,Fertilizantes,2024-04-14,33,210.0
+965,116,Tatiane Lopes,Cuiabá,MT,208,Adubo MAP,Fertilizantes,2024-12-31,29,210.0
+966,103,Carlos Pereira,Ribeirão Preto,SP,204,Fungicida Triazol,Defensivos,2024-10-30,9,950.0
+967,104,Ana Martins,Uberlândia,MG,204,Fungicida Triazol,Defensivos,2024-01-18,38,950.0
+968,124,Vanessa Pacheco,Londrina,PR,205,Calcário Agrícola,Corretivos,2024-02-29,9,45.0
+969,108,Fernanda Alves,Maringá,PR,203,Herbicida Glifosato,Defensivos,2024-05-19,13,780.0
+970,107,Lucas Rocha,Piracicaba,SP,208,Adubo MAP,Fertilizantes,2024-09-14,12,210.0
+971,115,Eduardo Rangel,Uberlândia,MG,205,Calcário Agrícola,Corretivos,2024-07-22,11,45.0
+972,111,Bruno Teixeira,Goioerê,PR,206,Sementes de Soja,Sementes,2024-03-17,40,420.0
+973,103,Carlos Pereira,Cascavel,PR,204,Fungicida Triazol,Defensivos,2024-04-08,26,950.0
+974,120,Larissa Cunha,Assis Chateaubriand,PR,204,Fungicida Triazol,Defensivos,2024-12-27,25,950.0
+975,122,Simone Araújo,Cuiabá,MT,203,Herbicida Glifosato,Defensivos,2024-02-04,39,780.0
+976,114,Camila Barros,Campo Grande,MS,202,Sementes de Milho,Sementes,2024-12-25,27,350.0
+977,110,Juliana Pires,Campo Grande,MS,207,Inseticida Sistêmico,Defensivos,2024-07-10,15,680.0
+978,113,Renato Farias,Uberlândia,MG,202,Sementes de Milho,Sementes,2024-01-30,3,350.0
+979,110,Juliana Pires,Rio Verde,GO,202,Sementes de Milho,Sementes,2024-06-03,29,350.0
+980,119,Diego Fonseca,Jataí,GO,208,Adubo MAP,Fertilizantes,2024-09-22,39,210.0
+981,110,Juliana Pires,Cascavel,PR,206,Sementes de Soja,Sementes,2024-09-21,37,420.0
+982,106,Rafael Costa,Dourados,MS,203,Herbicida Glifosato,Defensivos,2024-01-25,25,780.0
+983,123,Rodrigo Mello,Dourados,MS,206,Sementes de Soja,Sementes,2024-01-11,35,420.0
+984,110,Juliana Pires,Ourinhos,SP,206,Sementes de Soja,Sementes,2024-02-11,26,420.0
+985,106,Rafael Costa,Toledo,PR,207,Inseticida Sistêmico,Defensivos,2024-11-18,27,680.0
+986,122,Simone Araújo,Rio Verde,GO,206,Sementes de Soja,Sementes,2024-02-26,11,420.0
+987,110,Juliana Pires,Jataí,GO,202,Sementes de Milho,Sementes,2024-06-13,36,350.0
+988,107,Lucas Rocha,Dourados,MS,202,Sementes de Milho,Sementes,2024-12-13,19,350.0
+989,109,Marcos Vinícius,Assis Chateaubriand,PR,206,Sementes de Soja,Sementes,2024-04-21,18,420.0
+990,119,Diego Fonseca,Londrina,PR,203,Herbicida Glifosato,Defensivos,2024-03-03,4,780.0
+991,118,Aline Moreira,Londrina,PR,206,Sementes de Soja,Sementes,2024-08-25,26,420.0
+992,120,Larissa Cunha,Ourinhos,SP,204,Fungicida Triazol,Defensivos,2024-03-21,26,950.0
+993,105,Pedro Lima,Rondonópolis,MT,206,Sementes de Soja,Sementes,2024-09-13,7,420.0
+994,125,André Ribeiro,Uberlândia,MG,202,Sementes de Milho,Sementes,2024-04-08,35,350.0
+995,111,Bruno Teixeira,Uberlândia,MG,204,Fungicida Triazol,Defensivos,2024-10-19,24,950.0
+996,106,Rafael Costa,Maringá,PR,201,Adubo NPK 20-05-20,Fertilizantes,2024-01-05,17,120.5
+997,101,João Silva,Goioerê,PR,206,Sementes de Soja,Sementes,2024-11-09,14,420.0
+998,108,Fernanda Alves,Ourinhos,SP,204,Fungicida Triazol,Defensivos,2024-12-13,14,950.0
+999,109,Marcos Vinícius,Piracicaba,SP,205,Calcário Agrícola,Corretivos,2024-11-29,36,45.0
+1000,119,Diego Fonseca,Ribeirão Preto,SP,204,Fungicida Triazol,Defensivos,2024-08-04,16,950.0
